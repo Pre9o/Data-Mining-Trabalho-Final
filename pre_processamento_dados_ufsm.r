@@ -1,4 +1,4 @@
-# install.packages("readxl")
+if (!requireNamespace("readxl", quietly = TRUE)) install.packages("readxl")
 library(readxl)
 
 current_dir <- getwd()
