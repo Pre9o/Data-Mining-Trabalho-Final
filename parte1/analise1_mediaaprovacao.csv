@@ -1,24 +1,24 @@
-Curso,Porcentagem de Aprovado
-Bacharelado em Sistemas de Informação,44.108108108108105
-Ciência da Computação - Bacharelado,55.390243902439025
-Ciências Econômicas - Diurno,18.666666666666668
-Ciências Econômicas - Noturno,37.666666666666664
-Curso Engenharia de Controle e Automação,17.46153846153846
-Curso de Bacharelado em Estatística - Noturno,31.0
-Curso de Engenharia Acústica,25.90909090909091
-Curso de Engenharia Aeroespacial,51.05555555555556
-Curso de Engenharia Sanitária e Ambiental,21.22222222222222
-Curso de Engenharia de Computação,15.615384615384615
-Curso de Engenharia de Produção,23.733333333333334
-Curso de Engenharia de Telecomunicações,19.375
-Engenharia Civil,36.121212121212125
-Engenharia Elétrica,26.727272727272727
-Engenharia Florestal,30.818181818181817
-Engenharia Mecânica,27.774193548387096
-Engenharia Química,44.121212121212125
-Física - Bacharelado,40.75
-Física - Licenciatura Plena,29.0
-Física - Licenciatura Plena Noturno,29.0
-Química - Bacharelado,24.11111111111111
-Química - Licenciatura,55.8
-Química Industrial,31.083333333333332
+Cód. Curso,Curso,Porcentagem de Aprovado
+102,Física - Licenciatura Plena,29.0
+109,Química - Licenciatura,55.8
+110,Química Industrial,31.083333333333332
+123,Física - Bacharelado,40.75
+126,Física - Licenciatura Plena Noturno,29.0
+133,Química - Bacharelado,24.11111111111111
+139,Curso de Bacharelado em Estatística - Noturno,31.0
+302,Engenharia Civil,36.121212121212125
+303,Engenharia Elétrica,26.727272727272727
+304,Engenharia Mecânica,27.774193548387096
+305,Engenharia Química,44.121212121212125
+307,Ciência da Computação - Bacharelado,55.390243902439025
+309,Curso de Engenharia Sanitária e Ambiental,21.22222222222222
+310,Curso Engenharia de Controle e Automação,17.46153846153846
+311,Curso de Engenharia Acústica,25.90909090909091
+312,Curso de Engenharia de Computação,15.615384615384615
+313,Curso de Engenharia de Produção,23.733333333333334
+314,Bacharelado em Sistemas de Informação,44.108108108108105
+315,Curso de Engenharia Aeroespacial,51.05555555555556
+316,Curso de Engenharia de Telecomunicações,19.375
+402,Engenharia Florestal,30.818181818181817
+504,Ciências Econômicas - Noturno,37.666666666666664
+521,Ciências Econômicas - Diurno,18.666666666666668

@@ -22,8 +22,6 @@ cols_numericas = [
 ]
 df_agrupado[cols_numericas] = df_agrupado[cols_numericas].astype(int)
 
-# Salvar o resultado em um novo arquivo CSV
 df_agrupado.to_csv('preprocessado.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
 
-# Exibir o resultado
 print(df_agrupado)
