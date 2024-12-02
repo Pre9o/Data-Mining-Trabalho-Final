@@ -44,17 +44,23 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_
 clf = DecisionTreeClassifier()
 clf = clf.fit(X_train, y_train)
 
+# Fazer previsões no conjunto de teste
+y_pred_test = clf.predict(X_test)
+
+# Calcular a acurácia no conjunto de teste
+test_accuracy = accuracy_score(y_test, y_pred_test)
+print(f'Acurácia no conjunto de teste: {test_accuracy}')
+
+# Fazer previsões para todos os dados
 df['GRUPO_PREDITO'] = clf.predict(X)
 
-overall_accuracy = accuracy_score(df['GRUPO'], df['GRUPO_PREDITO'])
-print(f'Acurácia geral: {overall_accuracy}')
-
-
+# Salvar o DataFrame com os grupos reais e preditos em um arquivo CSV
 output_file_path = os.path.join(current_dir, 'cursos_com_grupos.csv')
 df.to_csv(output_file_path, index=False)
 
 print(f'Arquivo CSV salvo em: {output_file_path}')
 
+# Visualizar a árvore de decisão (opcional)
 plt.figure(figsize=(20,10))
 tree.plot_tree(clf, feature_names=features, class_names=['1', '2', '3', '4'], filled=True)
 plt.show()
