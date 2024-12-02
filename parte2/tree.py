@@ -1,7 +1,15 @@
 import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score
+from sklearn import tree
+import matplotlib.pyplot as plt
+import os
 
 # Carregar seu dataset (substitua pelo caminho correto do seu arquivo CSV)
-df = pd.read_csv(r"C:\Users\gabri\WorkSpace\GitHub\Data-Mining-Trabalho-Final\parte2\resultado_unificado.csv")
+current_dir = os.path.dirname(os.path.realpath(__file__))
+file_path = os.path.join(current_dir, 'resultado_unificado.csv')
+df = pd.read_csv(file_path)
 
 # Criar novas colunas para as variáveis necessárias
 df['TOTAL_INGRESSANTES'] = df['INGRESSANTES_MASC'] + df['INGRESSANTES_FEM']
@@ -9,21 +17,10 @@ df['TOTAL_FORMADOS'] = df['FORMADOS_MASC'] + df['FORMADOS_FEM']
 df['MULHERES_INGRESSANTES'] = df['INGRESSANTES_FEM']
 
 # Definir a variável 'grupo' com base nas comparações
-# Grupo 1: Mulheres ingressantes > 50% dos ingressantes totais
-# Grupo 2: Mulheres ingressantes <= 50% e Formados > 50% dos ingressantes totais
-# Grupo 3: Mulheres ingressantes <= 50% e Formados <= 50% dos ingressantes totais
-# Grupo 4: Mulheres ingressantes > 50% e Formados <= 50% dos ingressantes totais
-
 def definir_grupo(row):
-    # Verificar se temos alunos ingressantes ou formados para evitar divisão por zero
-    try:
-        perc_mulheres_ingressantes = row['MULHERES_INGRESSANTES'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
-        perc_formados = row['TOTAL_FORMADOS'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
-    except ZeroDivisionError:
-        perc_mulheres_ingressantes = 0
-        perc_formados = 0
+    perc_mulheres_ingressantes = row['MULHERES_INGRESSANTES'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
+    perc_formados = row['TOTAL_FORMADOS'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
     
-    # Definir os grupos com base nas porcentagens calculadas
     if perc_mulheres_ingressantes > 0.5:
         if perc_formados <= 0.5:
             return '4'
@@ -38,7 +35,20 @@ def definir_grupo(row):
 # Aplicar a função para criar a nova coluna 'grupo'
 df['grupo'] = df.apply(definir_grupo, axis=1)
 
-# Salvar o novo dataset com a coluna 'grupo' em um novo arquivo CSV
-df.to_csv('seu_arquivo_com_grupo.csv', index=False)
+features = ['TOTAL_INGRESSANTES', 'TOTAL_FORMADOS', 'MULHERES_INGRESSANTES']
+X = df[features]
+y = df['grupo']
 
-print("Novo arquivo com a coluna 'grupo' gerado com sucesso!")
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+clf = DecisionTreeClassifier()
+clf = clf.fit(X_train, y_train)
+
+y_pred = clf.predict(X_test)
+
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Acurácia: {accuracy}')
+
+plt.figure(figsize=(20,10))
+tree.plot_tree(clf, feature_names=features, class_names=['1', '2', '3', '4'], filled=True)
+plt.show()
