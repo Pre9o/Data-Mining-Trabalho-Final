@@ -35,7 +35,7 @@ for (dataset_name in datasets_names) {
 
 # Rafael Pregardier: Initialize dataset_new with the appropriate columns.
 colunas_iniciais <- setdiff(names(dataset), c("Situação", "%"))
-colunas_situacao <- paste("% de", unique_situacao_values)
+colunas_situacao <- paste("Porcentagem de", unique_situacao_values)
 dataset_new <- data.frame(matrix(ncol = length(colunas_iniciais) + length(colunas_situacao), nrow = 0))
 colnames(dataset_new) <- c(colunas_iniciais, colunas_situacao)
   
@@ -61,7 +61,7 @@ for (dataset_name in datasets_names) {
     if (is.null(cod_disciplina) || cod_disciplina != dataset$`Cód. Disciplina`[i] || cod_turma != dataset$`Cód. Turma`[i] || professor != dataset$Professor[i] || cod_curso != dataset$`Cód. Curso`[i]) {
       new_row <- dataset[i, -which(names(dataset) %in% c("Situação", "%"))]
       for (situacao_value in unique_situacao_values) {
-        new_row[paste("% de", situacao_value)] <- 0
+        new_row[paste("Porcentagem de", situacao_value)] <- 0
       }
       dataset_new <- rbind(dataset_new, new_row)
       cod_disciplina <- dataset$`Cód. Disciplina`[i]
@@ -69,7 +69,7 @@ for (dataset_name in datasets_names) {
       professor <- dataset$Professor[i]
       cod_curso <- dataset$`Cód. Curso`[i]
     }
-    dataset_new[nrow(dataset_new), paste("% de", situacao)] <- as.numeric(dataset$`%`[i])
+    dataset_new[nrow(dataset_new), paste("Porcentagem de", situacao)] <- as.numeric(dataset$`%`[i])
   }
 }
 print(dataset_new)

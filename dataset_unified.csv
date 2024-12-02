@@ -1,4 +1,4 @@
-"Ano","Semestre","Cód. Disciplina","Cód. Turma","Alunos","Professor","Cód. Curso","Curso","% de Aprovado","% de Dispensado","% de Reprovado","% de Tr.Parcial","% de Não Concl.","% de CancMatric","% de Repr.Freq"
+"Ano","Semestre","Cód. Disciplina","Cód. Turma","Alunos","Professor","Cód. Curso","Curso","Porcentagem de Aprovado","Porcentagem de Dispensado","Porcentagem de Reprovado","Porcentagem de Tr.Parcial","Porcentagem de Não Concl.","Porcentagem de CancMatric","Porcentagem de Repr.Freq"
 2021,"1. Semestre","D200888","10",5,"P888402148","139","Curso de Bacharelado em Estatística - Noturno",15,3,82,0,0,0,0
 2021,"1. Semestre","D200888","11",17,"P148855320","521","Ciências Econômicas - Diurno",31,0,67,2,0,0,0
 2021,"1. Semestre","D200888","11",20,"P394200218","402","Engenharia Florestal",54,0,46,0,0,0,0
