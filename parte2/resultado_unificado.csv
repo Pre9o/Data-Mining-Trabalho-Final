@@ -1,0 +1,276 @@
+﻿COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,INGRESSANTES_MASC,INGRESSANTES_FEM,FORMADOS_MASC,FORMADOS_FEM
+202,Medicina,Graduação,TOTAL,527.0,534.0,649.0,732.0
+203,Odontologia,Graduação,TOTAL,395.0,171.0,538.0,242.0
+204,Fonoaudiologia,Graduação,TOTAL,190.0,10.0,310.0,32.0
+209,Enfermagem,Graduação,TOTAL,261.0,40.0,448.0,113.0
+210,Fisioterapia,Graduação,TOTAL,252.0,49.0,394.0,151.0
+211,Farmácia,Graduação,TOTAL,523.0,95.0,862.0,216.0
+212,Terapia Ocupacional,Graduação,TOTAL,396.0,25.0,620.0,59.0
+213,Nutrição,Graduação,TOTAL,0.0,0.0,15.0,4.0
+302,Engenharia Civil,Graduação,TOTAL,208.0,365.0,296.0,534.0
+303,Engenharia Elétrica,Graduação,TOTAL,66.0,287.0,126.0,539.0
+304,Engenharia Mecânica,Graduação,TOTAL,32.0,272.0,88.0,472.0
+305,Engenharia Química,Graduação,TOTAL,254.0,187.0,422.0,382.0
+307,Ciência da Computação - Bacharelado,Graduação,TOTAL,13.0,145.0,45.0,386.0
+308,Arquitetura e Urbanismo,Graduação,TOTAL,172.0,53.0,258.0,93.0
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,TOTAL,103.0,53.0,219.0,175.0
+310,Curso Engenharia de Controle e Automação,Graduação,TOTAL,14.0,129.0,54.0,347.0
+311,Curso de Engenharia Acústica,Graduação,TOTAL,21.0,75.0,84.0,295.0
+312,Curso de Engenharia de Computação,Graduação,TOTAL,19.0,126.0,56.0,414.0
+313,Curso de Engenharia de Produção,Graduação,TOTAL,122.0,147.0,186.0,260.0
+314,Bacharelado em Sistemas de Informação,Graduação,TOTAL,14.0,99.0,53.0,386.0
+315,Curso de Engenharia Aeroespacial,Graduação,TOTAL,10.0,35.0,115.0,288.0
+316,Curso de Engenharia de Telecomunicações,Graduação,TOTAL,4.0,19.0,108.0,408.0
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,TOTAL,3.0,0.0,64.0,55.0
+763,Dança - Licenciatura,Graduação,TOTAL,28.0,9.0,149.0,40.0
+801,Educação Física,Graduação,TOTAL,155.0,165.0,289.0,456.0
+809,Educação Física - Bacharelado,Graduação,TOTAL,146.0,209.0,233.0,479.0
+101,Filosofia - Licenciatura Plena,Graduação,TOTAL,55.0,77.0,213.0,241.0
+102,Física - Licenciatura Plena,Graduação,TOTAL,18.0,24.0,97.0,155.0
+109,Química - Licenciatura,Graduação,TOTAL,80.0,49.0,225.0,158.0
+110,Química Industrial,Graduação,TOTAL,62.0,25.0,114.0,64.0
+111,Ciências Biológicas - Licenciatura Plena,Graduação,TOTAL,131.0,48.0,177.0,73.0
+121,Geografia - Licenciatura Plena,Graduação,TOTAL,69.0,64.0,179.0,223.0
+122,Geografia - Bacharelado,Graduação,TOTAL,33.0,52.0,125.0,189.0
+123,Física - Bacharelado,Graduação,TOTAL,21.0,57.0,60.0,202.0
+125,Matemática - Licenciatura Plena - Noturno,Graduação,TOTAL,33.0,32.0,133.0,220.0
+126,Física - Licenciatura Plena Noturno,Graduação,TOTAL,13.0,15.0,60.0,175.0
+127,Ciências Biológicas - Bacharelado,Graduação,TOTAL,120.0,68.0,170.0,76.0
+128,Ciências Biológicas - Núcleo Comum,Graduação,TOTAL,0.0,0.0,331.0,166.0
+130,Graduação em História - Licenciatura/Bacharelado,Graduação,TOTAL,48.0,40.0,82.0,125.0
+131,Meteorologia - Bacharelado,Graduação,TOTAL,24.0,30.0,91.0,118.0
+132.1,Matemática - Licenciatura Plena,Graduação,TOTAL,58.0,28.0,174.0,165.0
+132.2,Matemática - Bacharelado,Graduação,TOTAL,8.0,20.0,77.0,139.0
+133,Química - Bacharelado,Graduação,TOTAL,45.0,25.0,166.0,90.0
+134.EAD.01,Licenciatura em Geografia/Distância/Santa Maria/RS,Graduação,TOTAL,2.0,5.0,6.0,17.0
+134.EAD.05,Geografia Licenciatura -EaD-UAB/Palmeira das Missões/RS,Graduação,TOTAL,5.0,4.0,7.0,13.0
+134.EAD.06,Geografia Licenciatura -EaD-UAB/Quaraí/RS,Graduação,TOTAL,6.0,6.0,9.0,11.0
+134.EAD.07,Geografia Licenciatura -EaD-UAB/Santa Vitória do Palmar/RS,Graduação,TOTAL,3.0,6.0,4.0,8.0
+134.EAD.08,Geografia Licenciatura -EaD-UAB/Santo Antonio da Patrulha/RS,Graduação,TOTAL,7.0,3.0,20.0,20.0
+134.EAD.09,Geografia Licenciatura -EaD-UAB/Serefina Corrêa/RS,Graduação,TOTAL,12.0,6.0,22.0,7.0
+134.EAD.10,Geografia Licenciatura -EaD-UAB/Tapejara/RS,Graduação,TOTAL,13.0,5.0,23.0,7.0
+134.EAD.11,Geografia Licenciatura -EaD-UAB/Três Passos/RS,Graduação,TOTAL,13.0,5.0,19.0,11.0
+134.EAD.12,Geografia Licenciatura -EaD-UAB/Sapiranga/RS,Graduação,TOTAL,7.0,8.0,14.0,15.0
+134.EAD.16,Geografia Licenciatura -EaD-UAB/Cruz Alta/RS,Graduação,TOTAL,0.0,0.0,17.0,8.0
+134.EAD.17,Geografia Licenciatura -EaD-UAB/Herval/RS,Graduação,TOTAL,0.0,0.0,10.0,5.0
+134.EAD.18,Geografia Licenciatura -EaD-UAB/Jacuizinho/RS,Graduação,TOTAL,0.0,0.0,15.0,4.0
+134.EAD.19,Geografia Licenciatura -EaD-UAB/Rosário do Sul/RS,Graduação,TOTAL,0.0,0.0,20.0,5.0
+134.EAD.20,Geografia Licenciatura -EaD-UAB/Sarandi/RS,Graduação,TOTAL,0.0,0.0,7.0,7.0
+135.EAD.01,Física - Licenciatura/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,3.0,0.0,5.0,2.0
+135.EAD.02,Física - Licenciatura/Distância/Três de Maio/RS,Graduação,TOTAL,4.0,2.0,5.0,12.0
+135.EAD.03,Física - Licenciatura/Distância/Quaraí/RS,Graduação,TOTAL,3.0,1.0,7.0,5.0
+135.EAD.05,Física - Licenciatura/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,2.0,,0.0,
+135.EAD.06,Física - Licenciatura/Distância/Cacequi/RS,Graduação,TOTAL,3.0,3.0,0.0,0.0
+135.EAD.10,Física - Licenciatura/Distância/Itaqui/RS,Graduação,TOTAL,,0.0,,1.0
+135.EAD.11,Física - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,7.0,7.0,27.0,32.0
+135.EAD.12,Física - Licenciatura/Distância/Santa Maria/RS,Graduação,TOTAL,14.0,6.0,32.0,63.0
+135.EAD.13,Física - Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,0.0,1.0,5.0,14.0
+135.EAD.14,Física - Licenciatura/Distância/Pinto Bandeira/RS,Graduação,TOTAL,0.0,0.0,2.0,5.0
+135.EAD.15,Física - Licenciatura/Distância/Gramado/RS,Graduação,TOTAL,0.0,0.0,3.0,4.0
+135.EAD.16,Física - Licenciatura/Distância/Cruz Alta/RS,Graduação,TOTAL,0.0,0.0,9.0,9.0
+137.EAD.04,Licenc. Letras Espanhol - Literaturas/Distância/Itaqui/RS,Graduação,TOTAL,10.0,1.0,17.0,9.0
+137.EAD.05,Licenc. Letras Espanhol - Literaturas/Distância/Jaquirana,Graduação,TOTAL,1.0,,0.0,
+137.EAD.06,Licenc. Letras Espanhol - Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,22.0,6.0,38.0,14.0
+137.EAD.07,Licenc. Letras Espanhol - Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,27.0,3.0,24.0,7.0
+137.EAD.08,Licenc. Letras Espanhol - Literaturas/Distância/São Lourenço/RS,Graduação,TOTAL,1.0,2.0,0.0,0.0
+137.EAD.09,Licenc. Letras Espanhol - Literaturas/Distância/Tapejara/RS,Graduação,TOTAL,1.0,1.0,3.0,3.0
+137.EAD.10,Licenc. Letras Espanhol - Literaturas/Distância/Jales/SP,Graduação,TOTAL,1.0,1.0,0.0,0.0
+137.EAD.11,Licenc. Letras Espanhol - Literaturas/Distância/Faxinal do Soturno,Graduação,TOTAL,7.0,1.0,2.0,0.0
+137.EAD.12,Licenc. Letras Espanhol - Literaturas/Distância/Vila Flores,Graduação,TOTAL,18.0,1.0,1.0,0.0
+137.EAD.13,Licenc. Letras Espanhol - Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,19.0,2.0,19.0,8.0
+137.EAD.14,Licenc. Letras Espanhol - Literaturas/Distância/Três de Maio,Graduação,TOTAL,20.0,6.0,17.0,4.0
+137.EAD.15,Licenc. Letras Espanhol - Literaturas/Distância/Palmeira das Missões/RS,Graduação,TOTAL,4.0,1.0,0.0,0.0
+137.EAD.16,Licenc. Letras Espanhol - Literaturas/Distância/Santa Maria/RS,Graduação,TOTAL,22.0,7.0,57.0,22.0
+137.EAD.17,Licenc. Letras Espanhol - Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,17.0,0.0,37.0,6.0
+137.EAD.18,Licenc. Letras Espanhol - Literaturas/Distância/Encantado/RS,Graduação,TOTAL,4.0,0.0,17.0,3.0
+137.EAD.19,Licenc. Letras Espanhol - Literaturas/Distância/Constantina/RS,Graduação,TOTAL,5.0,1.0,20.0,4.0
+137.EAD.20,Licenc. Letras Espanhol - Literaturas/Distância/Cacequi/RS,Graduação,TOTAL,0.0,0.0,4.0,3.0
+137.EAD.21,Licenc. Letras Espanhol - Literaturas/Distância/Jacuizinho/RS,Graduação,TOTAL,0.0,0.0,12.0,1.0
+137.EAD.22,Licenc. Letras Espanhol - Literaturas/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,0.0,0.0,21.0,4.0
+137.EAD.23,Licenc. Letras Espanhol - Literaturas/Distância/Uruguaiana/RS,Graduação,TOTAL,0.0,0.0,11.0,5.0
+138,Bacharelado em Filosofia - Noturno,Graduação,TOTAL,22.0,47.0,188.0,320.0
+139,Curso de Bacharelado em Estatística - Noturno,Graduação,TOTAL,41.0,36.0,150.0,248.0
+140,História - Licenciatura PARFOR,Graduação,TOTAL,10.0,2.0,0.0,0.0
+141,Curso Superior de Tecnologia em Processos Químicos,Graduação,TOTAL,56.0,27.0,247.0,139.0
+142,História Licenciatura,Graduação,TOTAL,55.0,70.0,168.0,197.0
+143,História Bacharelado,Graduação,TOTAL,42.0,48.0,89.0,95.0
+144,Curso de Estatística,Graduação,TOTAL,0.0,0.0,4.0,5.0
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,TOTAL,62.0,70.0,203.0,264.0
+3004,Curso de Bacharelado em Administração,Graduação,TOTAL,61.0,36.0,76.0,65.0
+401,Agronomia,Graduação,TOTAL,260.0,671.0,447.0,852.0
+402,Engenharia Florestal,Graduação,TOTAL,189.0,156.0,364.0,308.0
+403,Medicina Veterinária,Graduação,TOTAL,565.0,233.0,742.0,276.0
+404,Zootecnia,Graduação,TOTAL,259.0,173.0,544.0,253.0
+406.EAD.03,Tec. Agric. Familiar Sustentabilidade/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,4.0,10.0,18.0,21.0
+406.EAD.06,Tec. Agric. Familiar Sustentabilidade/Distância/Sobradinho/RS,Graduação,TOTAL,5.0,10.0,9.0,22.0
+406.EAD.09,Tec. Agric. Familiar Sustentabilidade/Distância/Três de Maio/RS,Graduação,TOTAL,3.0,2.0,6.0,6.0
+406.EAD.12,Tec. Agric. Familiar Sustentabilidade/Distância/Quaraí/RS,Graduação,TOTAL,0.0,3.0,2.0,4.0
+406.EAD.13,Tec. Agric. Familiar Sustentabilidade/Distância/Sarandi/RS,Graduação,TOTAL,0.0,2.0,2.0,7.0
+406.EAD.14,Tec. Agric. Familiar Sustentabilidade/Distância/Vila Flores/RS,Graduação,TOTAL,1.0,5.0,4.0,8.0
+407,Curso Superior de Tecnologia em Alimentos,Graduação,TOTAL,283.0,42.0,716.0,270.0
+408.EAD.01,Licenciatura em Educação do Campo/Distância/Itaqui/RS,Graduação,TOTAL,14.0,2.0,25.0,9.0
+408.EAD.02,Licenciatura em Educação do Campo/Distância/São Sepé/RS,Graduação,TOTAL,10.0,0.0,35.0,16.0
+408.EAD.03,Licenciatura em Educação do Campo/Distância/Cerro Largo/RS,Graduação,TOTAL,10.0,4.0,30.0,14.0
+408.EAD.04,Licenciatura em Educação do Campo/Distância/Seberi/RS,Graduação,TOTAL,10.0,4.0,33.0,14.0
+408.EAD.05,Licenciatura em Educação do Campo/Distância/Agudo/RS,Graduação,TOTAL,7.0,5.0,37.0,27.0
+408.EAD.06,Licenciatura em Educação do Campo/Distância/Balneário Pinhal/RS,Graduação,TOTAL,14.0,4.0,32.0,11.0
+408.EAD.07,Licenciatura em Educação do Campo/Distância/Santana do Livramento/RS,Graduação,TOTAL,11.0,3.0,32.0,10.0
+408.EAD.08,Licenciatura em Educação do Campo/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,8.0,0.0,23.0,11.0
+408.EAD.09,Licenciatura em Educação do Campo/Distância/Sobradinho/RS,Graduação,TOTAL,12.0,2.0,29.0,6.0
+408.EAD.10,Licenciatura em Educação do Campo/Distância/Encantado/RS,Graduação,TOTAL,13.0,2.0,20.0,5.0
+408.EAD.11,Licenciatura em Educação do Campo/Distância/Novo Hamburgo/RS,Graduação,TOTAL,3.0,1.0,9.0,8.0
+408.EAD.12,Licenciatura em Educação do Campo/Distância/Canguçu/RS,Graduação,TOTAL,0.0,0.0,18.0,7.0
+408.EAD.13,Licenciatura em Educação do Campo/Distância/Santiago/RS,Graduação,TOTAL,0.0,0.0,18.0,8.0
+408.EAD.14,Licenciatura em Educação do Campo/Distância/São Gabriel/RS,Graduação,TOTAL,0.0,0.0,21.0,4.0
+408.EAD.15,Licenciatura em Educação do Campo/Distância/Serafina Corrêa/RS,Graduação,TOTAL,0.0,0.0,15.0,5.0
+408.EAD.16,Licenciatura em Educação do Campo/Distância/Três de Maio/RS,Graduação,TOTAL,0.0,0.0,23.0,2.0
+501,Administração - Diurno,Graduação,TOTAL,177.0,166.0,288.0,356.0
+502,Ciências Contábeis - Noturno,Graduação,TOTAL,119.0,111.0,214.0,282.0
+503,Direito Diurno,Graduação,TOTAL,214.0,146.0,255.0,191.0
+504,Ciências Econômicas - Noturno,Graduação,TOTAL,47.0,50.0,171.0,346.0
+506,Comunicação Social - Jornalismo,Graduação,TOTAL,136.0,70.0,229.0,107.0
+507,Comunicação Social - Publicidade e Propaganda,Graduação,TOTAL,133.0,73.0,220.0,122.0
+508,Comunicação Social - Relações Públicas,Graduação,TOTAL,170.0,46.0,251.0,99.0
+509,Arquivologia,Graduação,TOTAL,108.0,36.0,244.0,110.0
+515,Administração - Noturno,Graduação,TOTAL,138.0,176.0,280.0,400.0
+519,Direito - Noturno,Graduação,TOTAL,143.0,187.0,227.0,243.0
+520,Psicologia,Graduação,TOTAL,156.0,45.0,225.0,106.0
+521,Ciências Econômicas - Diurno,Graduação,TOTAL,85.0,88.0,152.0,292.0
+522,Ciências Sociais  - Bacharelado,Graduação,TOTAL,54.0,44.0,295.0,216.0
+524,Ciências Contábeis - Diurno,Graduação,TOTAL,184.0,87.0,275.0,236.0
+525,Relações Internacionais,Graduação,TOTAL,205.0,122.0,327.0,219.0
+526,Licenciatura em Sociologia,Graduação,TOTAL,10.0,7.0,19.0,19.0
+527.EAD.03,Licenciatura Sociologia/Distância/Restinga Seca/RS,Graduação,TOTAL,14.0,2.0,0.0,0.0
+527.EAD.04,Licenciatura Sociologia/Distância/Santana do Livramento/RS,Graduação,TOTAL,2.0,,0.0,
+527.EAD.06,Licenciatura Sociologia/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,20.0,3.0,0.0,0.0
+527.EAD.07,Licenciatura Sociologia/Distância/Picada Café/RS,Graduação,TOTAL,8.0,3.0,0.0,0.0
+527.EAD.08,Licenciatura Sociologia/Distância/Quaraí/RS,Graduação,TOTAL,13.0,6.0,0.0,0.0
+527.EAD.09,Licenciatura Sociologia/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,12.0,7.0,32.0,25.0
+527.EAD.10,Licenciatura Sociologia/Distância/Gramado/RS,Graduação,TOTAL,11.0,7.0,31.0,21.0
+527.EAD.11,Licenciatura Sociologia/Distância/Jaquirana/RS,Graduação,TOTAL,16.0,4.0,29.0,14.0
+527.EAD.12,Licenciatura Sociologia/Distância/Mostardas/RS,Graduação,TOTAL,17.0,4.0,32.0,12.0
+528,Serviço Social - Bacharelado (Noturno),Graduação,TOTAL,232.0,36.0,405.0,122.0
+529,Comunicação Social - Produção Editorial,Graduação,TOTAL,142.0,56.0,261.0,84.0
+530,Licenciatura em Ciências Sociais,Graduação,TOTAL,62.0,47.0,306.0,261.0
+531,Curso Superior de Tecnologia em Gestão de Turismo,Graduação,TOTAL,50.0,24.0,242.0,125.0
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,TOTAL,222.0,8.0,511.0,79.0
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,TOTAL,378.0,11.0,908.0,107.0
+633,Educação Especial - Licenciatura Plena,Graduação,TOTAL,198.0,6.0,534.0,52.0
+636.EAD.01,Pedagogia/Distância/Cruz Alta/RS,Graduação,TOTAL,30.0,2.0,1.0,2.0
+636.EAD.02,Pedagogia/Distância/Faxinal do Soturno/RS,Graduação,TOTAL,8.0,2.0,0.0,0.0
+636.EAD.03,Pedagogia/Distância/Restinga Sêca/RS,Graduação,TOTAL,31.0,1.0,54.0,2.0
+636.EAD.04,Pedagogia/Distância/Santana do Livramento/RS,Graduação,TOTAL,19.0,2.0,67.0,7.0
+636.EAD.06,Pedagogia-Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,79.0,1.0,112.0,9.0
+636.EAD.07,Pedagogia-Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,51.0,5.0,58.0,4.0
+636.EAD.08,Pedagogia-Licenciatura/Distância/Três de Maio/RS,Graduação,TOTAL,71.0,3.0,77.0,7.0
+636.EAD.09,Pedagogia-Licenciatura/Distância/Três Passos/RS,Graduação,TOTAL,122.0,9.0,142.0,10.0
+636.EAD.10,Pedagogia/Distância/Panambi/RS,Graduação,TOTAL,17.0,0.0,35.0,2.0
+636.EAD.11,Pedagogia/Distância/Agudo/RS,Graduação,TOTAL,56.0,4.0,44.0,3.0
+636.EAD.12,Pedagogia-Licenciatura/Distância/Palmeira das Missões/RS,Graduação,TOTAL,65.0,2.0,80.0,6.0
+636.EAD.13,Pedagogia-Licenciatura/Distância/Cacequi/RS,Graduação,TOTAL,17.0,0.0,16.0,2.0
+636.EAD.14,Pedagogia-Licenciatura/Distância/Encantado/RS,Graduação,TOTAL,40.0,1.0,69.0,2.0
+636.EAD.15,Pedagogia-Licenciatura/Distância/Jacuizinho/RS,Graduação,TOTAL,21.0,0.0,61.0,5.0
+636.EAD.16,Pedagogia-Licenciatura/Distância/São Francisco de Paula/RS,Graduação,TOTAL,14.0,2.0,34.0,6.0
+636.EAD.17,Pedagogia-Licenciatura/Distância/São Sepé/RS,Graduação,TOTAL,12.0,0.0,35.0,8.0
+636.EAD.18,Pedagogia-Licenciatura/Distância/Sapucaia do Sul/RS,Graduação,TOTAL,20.0,2.0,35.0,2.0
+636.EAD.19,Pedagogia-Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,20.0,1.0,45.0,3.0
+636.EAD.20,Pedagogia-Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,37.0,2.0,76.0,8.0
+636.EAD.22,Pedagogia-Licenciatura/Distância/Seberi/RS,Graduação,TOTAL,24.0,0.0,82.0,3.0
+636.EAD.23,Pedagogia-Licenciatura/Distância/Tio Hugo/RS,Graduação,TOTAL,11.0,0.0,52.0,2.0
+636.EAD.24,Pedagogia-Licenciatura/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,13.0,1.0,32.0,3.0
+636.EAD.25,Pedagogia-Licenciatura/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,16.0,4.0,35.0,6.0
+636.EAD.26,Pedagogia-Licenciatura/Distância/Sarandi/RS,Graduação,TOTAL,16.0,0.0,41.0,1.0
+637,Licenciatura em Educação Especial - Noturno,Graduação,TOTAL,205.0,11.0,490.0,67.0
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,TOTAL,647.0,341.0,825.0,521.0
+639.EAD.01,Educação Especial - Licenciatura/Distância/Santana do Livramento/RS,Graduação,TOTAL,38.0,2.0,50.0,2.0
+639.EAD.02,Educação Especial - Licenciatura/Distância/Três Passos/RS,Graduação,TOTAL,15.0,,32.0,
+639.EAD.03,Educação Especial - Licenciatura/Distância/Foz do Iguaçu/PR,Graduação,TOTAL,38.0,2.0,49.0,7.0
+639.EAD.05,Educação Especial - Licenciatura/Distância/Balneário Pinhal,Graduação,TOTAL,6.0,2.0,0.0,0.0
+639.EAD.06,Educação Especial - Licenciatura/Distância/Novo Hamburgo/RS,Graduação,TOTAL,42.0,5.0,55.0,3.0
+639.EAD.07,Educação Especial - Licenciatura/Distância/Sobradinho/RS,Graduação,TOTAL,13.0,1.0,0.0,0.0
+639.EAD.09,Educação Especial - Licenciatura/PARFOR/Distância/Balneário Pinhal/RS,Graduação,TOTAL,2.0,1.0,0.0,0.0
+639.EAD.10,Educação Especial - Licenciatura/PARFOR/Distância/Novo Hamburgo/RS,Graduação,TOTAL,4.0,,0.0,
+639.EAD.11,Educação Especial - Licenciatura/PARFOR/Distância/Santa Vitória do Palmar/RS,Graduação,TOTAL,11.0,,0.0,
+639.EAD.12,Educação Especial - Licenciatura/Distância/Agudo/RS,Graduação,TOTAL,18.0,1.0,31.0,1.0
+639.EAD.13,Educação Especial - Licenciatura/Distância/POA(Campus do Vale/UFRGS),Graduação,TOTAL,10.0,2.0,19.0,2.0
+639.EAD.14,Educação Especial - Licenciatura/Distância/Santa Vitória do Palmar/RS,Graduação,TOTAL,13.0,,19.0,
+639.EAD.15,Educação Especial - Licenciatura/Distância/Vila Flores/RS,Graduação,TOTAL,11.0,,16.0,
+639.EAD.16,Educação Especial - Licenciatura/Distância/Santo Antônio da Patrulha/RS,Graduação,TOTAL,27.0,0.0,57.0,2.0
+639.EAD.17,Educação Especial - Licenciatura/Distância/Cachoeira do Sul /RS,Graduação,TOTAL,0.0,0.0,28.0,2.0
+639.EAD.18,Educação Especial - Licenciatura/Distância/Cerro Largo/RS,Graduação,TOTAL,0.0,0.0,29.0,1.0
+639.EAD.19,Educação Especial - Licenciatura/Distância/Cruz Alta/RS,Graduação,TOTAL,0.0,0.0,29.0,2.0
+639.EAD.20,Educação Especial - Licenciatura/Distância/Gramado/RS,Graduação,TOTAL,0.0,0.0,28.0,4.0
+639.EAD.21,Educação Especial - Licenciatura/Distância/Tapejara/RS,Graduação,TOTAL,0.0,0.0,25.0,5.0
+640.EAD.01,Curso de Formação de Professores para Educação Profissional/Ead/Novo Hamburgo/RS,Graduação,TOTAL,25.0,16.0,51.0,21.0
+640.EAD.02,Curso de Formação de Professores para Educação Profissional/Ead/Quaraí/RS,Graduação,TOTAL,3.0,4.0,0.0,1.0
+640.EAD.03,Curso de Formação de Professores para Educação Profissional/Ead/São Lourenço do Sul/RS,Graduação,TOTAL,13.0,5.0,25.0,9.0
+640.EAD.04,Curso de Formação de Professores para Educação Profissional/Ead/Tapejara/RS,Graduação,TOTAL,20.0,4.0,20.0,8.0
+640.EAD.05,Curso de Formação de Professores para Educação Profissional/Ead/Vila Flores/RS,Graduação,TOTAL,7.0,3.0,0.0,0.0
+640.EAD.06,Curso de Formação de Professores para Educação Profissional/Ead/Sapiranga/RS,Graduação,TOTAL,18.0,16.0,28.0,34.0
+640.EAD.07,Curso de Formação de Professores para Educação Profissional/Ead/Três de Maio/RS,Graduação,TOTAL,32.0,6.0,49.0,16.0
+640.EAD.08,Curso de Formação de Professores para Educação Profissional/Ead/Agudo/RS,Graduação,TOTAL,15.0,7.0,24.0,14.0
+640.EAD.09,Curso de Formação de Professores para Educação Profissional/Ead/Gramado/RS,Graduação,TOTAL,9.0,6.0,15.0,14.0
+641.EAD.01,Licenciatura em Ciências da Religião/EAD/Quaraí/RS,Graduação,TOTAL,15.0,8.0,32.0,19.0
+641.EAD.02,Licenciatura em Ciências da Religião/EAD/São João do Polêsine/RS,Graduação,TOTAL,9.0,6.0,23.0,15.0
+641.EAD.03,Licenciatura em Ciências da Religião/EAD/Cacequi/RS,Graduação,TOTAL,10.0,3.0,25.0,11.0
+641.EAD.04,Licenciatura em Ciências da Religião/EAD/São Francisco de Paula/RS,Graduação,TOTAL,2.0,5.0,20.0,13.0
+641.EAD.05,Licenciatura em Ciências da Religião/EAD/Constantina/RS,Graduação,TOTAL,5.0,0.0,11.0,3.0
+641.EAD.06,Licenciatura em Ciências da Religião/EAD/Bagé/RS,Graduação,TOTAL,0.0,0.0,13.0,7.0
+641.EAD.07,Licenciatura em Ciências da Religião/EAD/Balneário Pinhal/RS,Graduação,TOTAL,0.0,0.0,18.0,5.0
+641.EAD.08,Licenciatura em Ciências da Religião/EAD/Cruz Alta/RS,Graduação,TOTAL,0.0,0.0,13.0,12.0
+641.EAD.09,Licenciatura em Ciências da Religião/EAD/Serafina Corrêa/RS,Graduação,TOTAL,0.0,0.0,9.0,3.0
+641.EAD.10,Licenciatura em Ciências da Religião/EAD/Vila Flores/RS,Graduação,TOTAL,0.0,0.0,3.0,9.0
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,TOTAL,24.0,24.0,7.0,13.0
+724,Artes Cênicas - Bacharelado,Graduação,TOTAL,0.0,0.0,148.0,76.0
+725,Artes Cênicas - Direção Teatral,Graduação,TOTAL,6.0,11.0,37.0,25.0
+726,Artes Cênicas - Interpretação Teatral,Graduação,TOTAL,52.0,27.0,72.0,34.0
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,TOTAL,117.0,63.0,241.0,134.0
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,TOTAL,70.0,20.0,127.0,64.0
+734,Música - Licenciatura Plena,Graduação,TOTAL,29.0,29.0,50.0,86.0
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,TOTAL,160.0,43.0,306.0,106.0
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,TOTAL,86.0,40.0,286.0,152.0
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,TOTAL,48.0,15.0,234.0,141.0
+738,Desenho Industrial - Projeto de Produto,Graduação,TOTAL,37.0,10.0,10.0,11.0
+741,Música - Bacharelado Canto,Graduação,TOTAL,10.0,2.0,16.0,4.0
+742,Música - Bacharelado Clarineta,Graduação,TOTAL,1.0,6.0,1.0,11.0
+743,Música - Bacharelado Flauta Transversa,Graduação,TOTAL,3.0,1.0,6.0,6.0
+744,Música - Bacharelado Percussão,Graduação,TOTAL,2.0,7.0,5.0,7.0
+745,Música - Bacharelado Piano,Graduação,TOTAL,4.0,9.0,10.0,21.0
+746,Música - Bacharelado Trombone,Graduação,TOTAL,,5.0,,11.0
+748,Música - Bacharelado Trompete,Graduação,TOTAL,1.0,8.0,1.0,15.0
+749,Música - Bacharelado Viola,Graduação,TOTAL,0.0,0.0,2.0,4.0
+750,Música - Bacharelado Violão,Graduação,TOTAL,1.0,14.0,1.0,21.0
+751,Música - Bacharelado Violino,Graduação,TOTAL,9.0,2.0,10.0,6.0
+752,Música - Bacharelado Violoncelo,Graduação,TOTAL,3.0,2.0,3.0,6.0
+753.EAD.01,Letras - Português e Literaturas/Distância/Restinga Seca/RS,Graduação,TOTAL,5.0,2.0,28.0,5.0
+753.EAD.02,Letras - Português e Literaturas/Distância/São Lourenço do Sul/RS,Graduação,TOTAL,5.0,2.0,0.0,0.0
+753.EAD.03,Letras - Português e Literaturas/Distância/Três Passos/RS,Graduação,TOTAL,1.0,1.0,23.0,4.0
+753.EAD.05,Letras - Português e Literaturas/Distância/Cruz Alta/RS,Graduação,TOTAL,6.0,2.0,1.0,1.0
+753.EAD.06,Letras - Português e Literaturas/Distância/Faxinal Soturno/,Graduação,TOTAL,1.0,1.0,0.0,0.0
+753.EAD.07,Letras - Português e Literaturas/Distância/Santana do Livramento/RS,Graduação,TOTAL,18.0,2.0,28.0,2.0
+753.EAD.08,Letras - Português e Literaturas/Distância/Sobradinho/RS,Graduação,TOTAL,13.0,2.0,23.0,7.0
+753.EAD.10,Letras - Português e Literaturas/Distância/Tio Hugo/RS,Graduação,TOTAL,13.0,0.0,19.0,6.0
+753.EAD.11,Letras - Português e Literaturas/Distância/Cachoeira do Sul/RS,Graduação,TOTAL,7.0,5.0,35.0,14.0
+753.EAD.12,Letras - Português e Literaturas/Distância/Novo Hamburgo/RS,Graduação,TOTAL,3.0,3.0,0.0,0.0
+753.EAD.13,Letras - Português e Literaturas/Distância/Agudo/RS,Graduação,TOTAL,18.0,1.0,20.0,7.0
+753.EAD.14,Letras - Português e Literaturas/Distância/Três de Maio/RS,Graduação,TOTAL,6.0,1.0,0.0,0.0
+753.EAD.15,Letras - Português e Literaturas/Distância/Quaraí/RS,Graduação,TOTAL,7.0,4.0,0.0,0.0
+753.EAD.16,Letras - Português e Literaturas/Distância/Vila Flores/RS,Graduação,TOTAL,2.0,,0.0,
+753.EAD.17,Letras - Português e Literaturas/Distância/Palmeira da Missões/RS,Graduação,TOTAL,5.0,1.0,0.0,0.0
+753.EAD.18,Letras - Português e Literaturas/Distância/Balneário Pinhal/RS,Graduação,TOTAL,5.0,2.0,25.0,7.0
+753.EAD.19,Letras - Português e Literaturas/Distância/São Francisco de Paula/RS,Graduação,TOTAL,8.0,0.0,17.0,1.0
+753.EAD.20,Letras - Português e Literaturas/Distância/Encantado/RS,Graduação,TOTAL,11.0,1.0,26.0,4.0
+753.EAD.21,Letras - Português e Literaturas/Distância/Santana da Boa Vista/RS,Graduação,TOTAL,12.0,0.0,28.0,2.0
+753.EAD.22,Letras - Português e Literaturas/Distância/Gramado/RS,Graduação,TOTAL,12.0,1.0,37.0,4.0
+753.EAD.23,Letras - Português e Literaturas/Distância/Jaquirana/RS,Graduação,TOTAL,15.0,2.0,47.0,3.0
+753.EAD.24,Letras - Português e Literaturas/Distância/Constantina/RS,Graduação,TOTAL,0.0,0.0,17.0,1.0
+754,Música - Bacharelado - Composição,Graduação,TOTAL,1.0,9.0,4.0,9.0
+755,Música Bacharelado - Contrabaixo,Graduação,TOTAL,0.0,4.0,3.0,4.0
+756,Licenciatura em Teatro,Graduação,TOTAL,44.0,26.0,134.0,86.0
+757,Bacharelado em Letras-Português/Literaturas,Graduação,TOTAL,60.0,14.0,369.0,142.0
+759,Música Bacharelado - Oboé,Graduação,TOTAL,1.0,0.0,5.0,2.0
+760,Música Bacharelado - Fagote,Graduação,TOTAL,0.0,2.0,1.0,5.0
+761,Música e Tecnologia - Bacharelado,Graduação,TOTAL,0.0,34.0,15.0,108.0
+762,Dança - Bacharelado,Graduação,TOTAL,44.0,9.0,113.0,30.0
+764,Música Bacharelado - Tuba,Graduação,TOTAL,,0.0,,3.0
+765,Desenho Industrial - Bacharelado,Graduação,TOTAL,75.0,55.0,264.0,210.0
