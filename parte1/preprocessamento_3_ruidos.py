@@ -25,7 +25,7 @@ df = df.apply(ajustar_porcentagens, axis=1)
 
 # Converter para inteiros após o ajuste
 df[cols_porcentagem] = df[cols_porcentagem].round().astype(int)
-df["Cód. Curso"] = df["Cód. Curso"].astype(int)
+df = df.drop(columns="Cód. Curso")
 
 # Salvar o resultado ajustado
 df.to_csv('dataset_final.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
