@@ -1,0 +1,126 @@
+COD_CURSO,NOME_UNIDADE,NIVEL_CURSO,ANO,INGRESSANTES_MASC,INGRESSANTES_FEM,FORMADOS_MASC,FORMADOS_FEM,TOTAL_INGRESSANTES,TOTAL_FORMADOS,MULHERES_INGRESSANTES,grupo
+202,Medicina,Graduação,TOTAL,527.0,534.0,649.0,732.0,1061.0,1381.0,534.0,1
+203,Odontologia,Graduação,TOTAL,395.0,171.0,538.0,242.0,566.0,780.0,171.0,2
+204,Fonoaudiologia,Graduação,TOTAL,190.0,10.0,310.0,32.0,200.0,342.0,10.0,2
+209,Enfermagem,Graduação,TOTAL,261.0,40.0,448.0,113.0,301.0,561.0,40.0,2
+210,Fisioterapia,Graduação,TOTAL,252.0,49.0,394.0,151.0,301.0,545.0,49.0,2
+211,Farmácia,Graduação,TOTAL,523.0,95.0,862.0,216.0,618.0,1078.0,95.0,2
+212,Terapia Ocupacional,Graduação,TOTAL,396.0,25.0,620.0,59.0,421.0,679.0,25.0,2
+213,Nutrição,Graduação,TOTAL,0.0,0.0,15.0,4.0,0.0,19.0,0.0,3
+302,Engenharia Civil,Graduação,TOTAL,208.0,365.0,296.0,534.0,573.0,830.0,365.0,1
+303,Engenharia Elétrica,Graduação,TOTAL,66.0,287.0,126.0,539.0,353.0,665.0,287.0,1
+304,Engenharia Mecânica,Graduação,TOTAL,32.0,272.0,88.0,472.0,304.0,560.0,272.0,1
+305,Engenharia Química,Graduação,TOTAL,254.0,187.0,422.0,382.0,441.0,804.0,187.0,2
+307,Ciência da Computação - Bacharelado,Graduação,TOTAL,13.0,145.0,45.0,386.0,158.0,431.0,145.0,1
+308,Arquitetura e Urbanismo,Graduação,TOTAL,172.0,53.0,258.0,93.0,225.0,351.0,53.0,2
+309,Curso de Engenharia Sanitária e Ambiental,Graduação,TOTAL,103.0,53.0,219.0,175.0,156.0,394.0,53.0,2
+310,Curso Engenharia de Controle e Automação,Graduação,TOTAL,14.0,129.0,54.0,347.0,143.0,401.0,129.0,1
+311,Curso de Engenharia Acústica,Graduação,TOTAL,21.0,75.0,84.0,295.0,96.0,379.0,75.0,1
+312,Curso de Engenharia de Computação,Graduação,TOTAL,19.0,126.0,56.0,414.0,145.0,470.0,126.0,1
+313,Curso de Engenharia de Produção,Graduação,TOTAL,122.0,147.0,186.0,260.0,269.0,446.0,147.0,1
+314,Bacharelado em Sistemas de Informação,Graduação,TOTAL,14.0,99.0,53.0,386.0,113.0,439.0,99.0,1
+315,Curso de Engenharia Aeroespacial,Graduação,TOTAL,10.0,35.0,115.0,288.0,45.0,403.0,35.0,1
+316,Curso de Engenharia de Telecomunicações,Graduação,TOTAL,4.0,19.0,108.0,408.0,23.0,516.0,19.0,1
+317,Curso de Engenharia Ambiental e Sanitária,Graduação,TOTAL,3.0,0.0,64.0,55.0,3.0,119.0,0.0,2
+763,Dança - Licenciatura,Graduação,TOTAL,28.0,9.0,149.0,40.0,37.0,189.0,9.0,2
+801,Educação Física,Graduação,TOTAL,155.0,165.0,289.0,456.0,320.0,745.0,165.0,1
+809,Educação Física - Bacharelado,Graduação,TOTAL,146.0,209.0,233.0,479.0,355.0,712.0,209.0,1
+101,Filosofia - Licenciatura Plena,Graduação,TOTAL,55.0,77.0,213.0,241.0,132.0,454.0,77.0,1
+102,Física - Licenciatura Plena,Graduação,TOTAL,18.0,24.0,97.0,155.0,42.0,252.0,24.0,1
+109,Química - Licenciatura,Graduação,TOTAL,80.0,49.0,225.0,158.0,129.0,383.0,49.0,2
+110,Química Industrial,Graduação,TOTAL,62.0,25.0,114.0,64.0,87.0,178.0,25.0,2
+111,Ciências Biológicas - Licenciatura Plena,Graduação,TOTAL,131.0,48.0,177.0,73.0,179.0,250.0,48.0,2
+121,Geografia - Licenciatura Plena,Graduação,TOTAL,69.0,64.0,179.0,223.0,133.0,402.0,64.0,2
+122,Geografia - Bacharelado,Graduação,TOTAL,33.0,52.0,125.0,189.0,85.0,314.0,52.0,1
+123,Física - Bacharelado,Graduação,TOTAL,21.0,57.0,60.0,202.0,78.0,262.0,57.0,1
+125,Matemática - Licenciatura Plena - Noturno,Graduação,TOTAL,33.0,32.0,133.0,220.0,65.0,353.0,32.0,2
+126,Física - Licenciatura Plena Noturno,Graduação,TOTAL,13.0,15.0,60.0,175.0,28.0,235.0,15.0,1
+127,Ciências Biológicas - Bacharelado,Graduação,TOTAL,120.0,68.0,170.0,76.0,188.0,246.0,68.0,2
+128,Ciências Biológicas - Núcleo Comum,Graduação,TOTAL,0.0,0.0,331.0,166.0,0.0,497.0,0.0,3
+130,Graduação em História - Licenciatura/Bacharelado,Graduação,TOTAL,48.0,40.0,82.0,125.0,88.0,207.0,40.0,2
+131,Meteorologia - Bacharelado,Graduação,TOTAL,24.0,30.0,91.0,118.0,54.0,209.0,30.0,1
+132.1,Matemática - Licenciatura Plena,Graduação,TOTAL,58.0,28.0,174.0,165.0,86.0,339.0,28.0,2
+132.2,Matemática - Bacharelado,Graduação,TOTAL,8.0,20.0,77.0,139.0,28.0,216.0,20.0,1
+133,Química - Bacharelado,Graduação,TOTAL,45.0,25.0,166.0,90.0,70.0,256.0,25.0,2
+134.EAD,Geografia Licenciatura -EaD-UAB/Total,Graduação,TOTAL,68.0,42.0,166.0,130.0,110.0,296.0,42.0,2
+135.EAD,Física - Licenciatura/Distância/Total,Graduação,TOTAL,36.0,20.0,86.0,147.0,56.0,233.0,20.0,2
+137.EAD,Licenciatura Letras Espanhol - Literaturas/Distância/Total,Graduação,TOTAL,180.0,34.0,290.0,90.0,214.0,380.0,34.0,2
+138,Bacharelado em Filosofia - Noturno,Graduação,TOTAL,22.0,47.0,188.0,320.0,69.0,508.0,47.0,1
+139,Curso de Bacharelado em Estatística - Noturno,Graduação,TOTAL,41.0,36.0,150.0,248.0,77.0,398.0,36.0,2
+140,História - Licenciatura PARFOR,Graduação,TOTAL,10.0,2.0,0.0,0.0,12.0,0.0,2.0,3
+141,Curso Superior de Tecnologia em Processos Químicos,Graduação,TOTAL,56.0,27.0,247.0,139.0,83.0,386.0,27.0,2
+142,História Licenciatura,Graduação,TOTAL,55.0,70.0,168.0,197.0,125.0,365.0,70.0,1
+143,História Bacharelado,Graduação,TOTAL,42.0,48.0,89.0,95.0,90.0,184.0,48.0,1
+144,Curso de Estatística,Graduação,TOTAL,0.0,0.0,4.0,5.0,0.0,9.0,0.0,3
+3003,Curso Superior de Tecnologia em Agronegócio,Graduação,TOTAL,62.0,70.0,203.0,264.0,132.0,467.0,70.0,1
+3004,Curso de Bacharelado em Administração,Graduação,TOTAL,61.0,36.0,76.0,65.0,97.0,141.0,36.0,2
+401,Agronomia,Graduação,TOTAL,260.0,671.0,447.0,852.0,931.0,1299.0,671.0,1
+402,Engenharia Florestal,Graduação,TOTAL,189.0,156.0,364.0,308.0,345.0,672.0,156.0,2
+403,Medicina Veterinária,Graduação,TOTAL,565.0,233.0,742.0,276.0,798.0,1018.0,233.0,2
+404,Zootecnia,Graduação,TOTAL,259.0,173.0,544.0,253.0,432.0,797.0,173.0,2
+406.EAD,Tecnologia Agricultura Familiar Sustentabilidade/Distância/Total,Graduação,TOTAL,13.0,22.0,41.0,68.0,35.0,109.0,22.0,1
+407,Curso Superior de Tecnologia em Alimentos,Graduação,TOTAL,283.0,42.0,716.0,270.0,325.0,986.0,42.0,2
+408.EAD,Licenciatura em Educação do Campo/Distância/Total,Graduação,TOTAL,102.0,27.0,472.0,167.0,129.0,639.0,27.0,2
+501,Administração - Diurno,Graduação,TOTAL,177.0,166.0,288.0,356.0,343.0,644.0,166.0,2
+502,Ciências Contábeis - Noturno,Graduação,TOTAL,119.0,111.0,214.0,282.0,230.0,496.0,111.0,2
+503,Direito Diurno,Graduação,TOTAL,214.0,146.0,255.0,191.0,360.0,446.0,146.0,2
+504,Ciências Econômicas - Noturno,Graduação,TOTAL,47.0,50.0,171.0,346.0,97.0,517.0,50.0,1
+506,Comunicação Social - Jornalismo,Graduação,TOTAL,136.0,70.0,229.0,107.0,206.0,336.0,70.0,2
+507,Comunicação Social - Publicidade e Propaganda,Graduação,TOTAL,133.0,73.0,220.0,122.0,206.0,342.0,73.0,2
+508,Comunicação Social - Relações Públicas,Graduação,TOTAL,170.0,46.0,251.0,99.0,216.0,350.0,46.0,2
+509,Arquivologia,Graduação,TOTAL,108.0,36.0,244.0,110.0,144.0,354.0,36.0,2
+515,Administração - Noturno,Graduação,TOTAL,138.0,176.0,280.0,400.0,314.0,680.0,176.0,1
+519,Direito - Noturno,Graduação,TOTAL,143.0,187.0,227.0,243.0,330.0,470.0,187.0,1
+520,Psicologia,Graduação,TOTAL,156.0,45.0,225.0,106.0,201.0,331.0,45.0,2
+521,Ciências Econômicas - Diurno,Graduação,TOTAL,85.0,88.0,152.0,292.0,173.0,444.0,88.0,1
+522,Ciências Sociais  - Bacharelado,Graduação,TOTAL,54.0,44.0,295.0,216.0,98.0,511.0,44.0,2
+524,Ciências Contábeis - Diurno,Graduação,TOTAL,184.0,87.0,275.0,236.0,271.0,511.0,87.0,2
+525,Relações Internacionais,Graduação,TOTAL,205.0,122.0,327.0,219.0,327.0,546.0,122.0,2
+526,Licenciatura em Sociologia,Graduação,TOTAL,10.0,7.0,19.0,19.0,17.0,38.0,7.0,2
+527.EAD,Licenciatura Sociologia/Distância/Total,Graduação,TOTAL,113.0,36.0,124.0,72.0,149.0,196.0,36.0,2
+528,Serviço Social - Bacharelado (Noturno),Graduação,TOTAL,232.0,36.0,405.0,122.0,268.0,527.0,36.0,2
+529,Comunicação Social - Produção Editorial,Graduação,TOTAL,142.0,56.0,261.0,84.0,198.0,345.0,56.0,2
+530,Licenciatura em Ciências Sociais,Graduação,TOTAL,62.0,47.0,306.0,261.0,109.0,567.0,47.0,2
+531,Curso Superior de Tecnologia em Gestão de Turismo,Graduação,TOTAL,50.0,24.0,242.0,125.0,74.0,367.0,24.0,2
+627,Pedagogia - Licenciatura Plena Noturno,Graduação,TOTAL,222.0,8.0,511.0,79.0,230.0,590.0,8.0,2
+628,Pedagogia - Licenciatura Plena Diurno,Graduação,TOTAL,378.0,11.0,908.0,107.0,389.0,1015.0,11.0,2
+633,Educação Especial - Licenciatura Plena,Graduação,TOTAL,198.0,6.0,534.0,52.0,204.0,586.0,6.0,2
+636.EAD,Pedagogia-Licenciatura/Distância/Total,Graduação,TOTAL,1051.0,50.0,1361.0,81.0,1101.0,1442.0,50.0,2
+637,Licenciatura em Educação Especial - Noturno,Graduação,TOTAL,205.0,11.0,490.0,67.0,216.0,557.0,11.0,2
+638,Programa Especial de Graduação de Formação de Professores para a Educação Profissional,Graduação,TOTAL,647.0,341.0,825.0,521.0,988.0,1346.0,341.0,2
+639.EAD,Educação Especial - Licenciatura/Distância/Total,Graduação,TOTAL,235.0,16.0,555.0,35.0,251.0,590.0,16.0,2
+640.EAD,Curso de Formação de Professores para Educação Profissional/Distância/Total,Graduação,TOTAL,142.0,67.0,212.0,117.0,209.0,329.0,67.0,2
+641.EAD,Licenciatura em Ciências da Religião/EAD/Total,Graduação,TOTAL,41.0,22.0,169.0,87.0,63.0,256.0,22.0,2
+718,Desenho Industrial - Habilitação Programação Visual,Graduação,TOTAL,24.0,24.0,7.0,13.0,48.0,20.0,24.0,3
+724,Artes Cênicas - Bacharelado,Graduação,TOTAL,0.0,0.0,148.0,76.0,0.0,224.0,0.0,3
+725,Artes Cênicas - Direção Teatral,Graduação,TOTAL,6.0,11.0,37.0,25.0,17.0,62.0,11.0,1
+726,Artes Cênicas - Interpretação Teatral,Graduação,TOTAL,52.0,27.0,72.0,34.0,79.0,106.0,27.0,2
+727,Artes Visuais - Bacharelado em Desenho e Plástica,Graduação,TOTAL,117.0,63.0,241.0,134.0,180.0,375.0,63.0,2
+728,Artes Visuais - Licenciatura Plena em Desenho e Plástica,Graduação,TOTAL,70.0,20.0,127.0,64.0,90.0,191.0,20.0,2
+734,Música - Licenciatura Plena,Graduação,TOTAL,29.0,29.0,50.0,86.0,58.0,136.0,29.0,2
+735,Letras - Lic - Hab. Português e Literatura Língua Portuguesa,Graduação,TOTAL,160.0,43.0,306.0,106.0,203.0,412.0,43.0,2
+736,Letras - Lic.- Hab. Inglês e Literaturas Língua Inglesa,Graduação,TOTAL,86.0,40.0,286.0,152.0,126.0,438.0,40.0,2
+737,Letras - Lic.- Hab. Espanhol e Literaturas Língua Espanhola,Graduação,TOTAL,48.0,15.0,234.0,141.0,63.0,375.0,15.0,2
+738,Desenho Industrial - Projeto de Produto,Graduação,TOTAL,37.0,10.0,10.0,11.0,47.0,21.0,10.0,3
+741,Música - Bacharelado Canto,Graduação,TOTAL,10.0,2.0,16.0,4.0,12.0,20.0,2.0,2
+742,Música - Bacharelado Clarineta,Graduação,TOTAL,1.0,6.0,1.0,11.0,7.0,12.0,6.0,1
+743,Música - Bacharelado Flauta Transversa,Graduação,TOTAL,3.0,1.0,6.0,6.0,4.0,12.0,1.0,2
+744,Música - Bacharelado Percussão,Graduação,TOTAL,2.0,7.0,5.0,7.0,9.0,12.0,7.0,1
+745,Música - Bacharelado Piano,Graduação,TOTAL,4.0,9.0,10.0,21.0,13.0,31.0,9.0,1
+746,Música - Bacharelado Trombone,Graduação,TOTAL,,5.0,,11.0,,,5.0,3
+748,Música - Bacharelado Trompete,Graduação,TOTAL,1.0,8.0,1.0,15.0,9.0,16.0,8.0,1
+749,Música - Bacharelado Viola,Graduação,TOTAL,0.0,0.0,2.0,4.0,0.0,6.0,0.0,3
+750,Música - Bacharelado Violão,Graduação,TOTAL,1.0,14.0,1.0,21.0,15.0,22.0,14.0,1
+751,Música - Bacharelado Violino,Graduação,TOTAL,9.0,2.0,10.0,6.0,11.0,16.0,2.0,2
+752,Música - Bacharelado Violoncelo,Graduação,TOTAL,3.0,2.0,3.0,6.0,5.0,9.0,2.0,2
+753.EAD,Letras - Português e Literaturas/Distância/Total,Graduação,TOTAL,155.0,37.0,421.0,84.0,192.0,505.0,37.0,2
+754,Música - Bacharelado - Composição,Graduação,TOTAL,1.0,9.0,4.0,9.0,10.0,13.0,9.0,1
+755,Música Bacharelado - Contrabaixo,Graduação,TOTAL,0.0,4.0,3.0,4.0,4.0,7.0,4.0,1
+756,Licenciatura em Teatro,Graduação,TOTAL,44.0,26.0,134.0,86.0,70.0,220.0,26.0,2
+757,Bacharelado em Letras-Português/Literaturas,Graduação,TOTAL,60.0,14.0,369.0,142.0,74.0,511.0,14.0,2
+759,Música Bacharelado - Oboé,Graduação,TOTAL,1.0,0.0,5.0,2.0,1.0,7.0,0.0,2
+760,Música Bacharelado - Fagote,Graduação,TOTAL,0.0,2.0,1.0,5.0,2.0,6.0,2.0,1
+761,Música e Tecnologia - Bacharelado,Graduação,TOTAL,0.0,34.0,15.0,108.0,34.0,123.0,34.0,1
+762,Dança - Bacharelado,Graduação,TOTAL,44.0,9.0,113.0,30.0,53.0,143.0,9.0,2
+764,Música Bacharelado - Tuba,Graduação,TOTAL,,0.0,,3.0,,,0.0,3
+765,Desenho Industrial - Bacharelado,Graduação,TOTAL,75.0,55.0,264.0,210.0,130.0,474.0,55.0,2
