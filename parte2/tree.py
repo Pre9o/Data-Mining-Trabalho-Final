@@ -21,33 +21,39 @@ def definir_grupo(row):
     perc_mulheres_ingressantes = row['MULHERES_INGRESSANTES'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
     perc_formados = row['TOTAL_FORMADOS'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
     
-    if perc_mulheres_ingressantes > 0.5:
+    if perc_mulheres_ingressantes > 0.3:
         if perc_formados <= 0.5:
             return '4'
         else:
             return '1'
     else:
-        if perc_formados > 0.5:
+        if perc_formados > 0.7:
             return '2'
         else:
             return '3'
 
 # Aplicar a função para criar a nova coluna 'grupo'
-df['grupo'] = df.apply(definir_grupo, axis=1)
+df['GRUPO'] = df.apply(definir_grupo, axis=1)
 
 features = ['TOTAL_INGRESSANTES', 'TOTAL_FORMADOS', 'MULHERES_INGRESSANTES']
 X = df[features]
-y = df['grupo']
+y = df['GRUPO']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
 clf = DecisionTreeClassifier()
 clf = clf.fit(X_train, y_train)
 
-y_pred = clf.predict(X_test)
+df['GRUPO_PREDITO'] = clf.predict(X)
 
-accuracy = accuracy_score(y_test, y_pred)
-print(f'Acurácia: {accuracy}')
+overall_accuracy = accuracy_score(df['GRUPO'], df['GRUPO_PREDITO'])
+print(f'Acurácia geral: {overall_accuracy}')
+
+
+output_file_path = os.path.join(current_dir, 'cursos_com_grupos.csv')
+df.to_csv(output_file_path, index=False)
+
+print(f'Arquivo CSV salvo em: {output_file_path}')
 
 plt.figure(figsize=(20,10))
 tree.plot_tree(clf, feature_names=features, class_names=['1', '2', '3', '4'], filled=True)
