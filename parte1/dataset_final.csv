@@ -1,0 +1,337 @@
+"Ano","Semestre","Cód. Disciplina","Cód. Turma","Professor","Cód. Curso","Curso","Porcentagem de Aprovado","Porcentagem de Dispensado","Porcentagem de Reprovado","Porcentagem de Tr.Parcial","Porcentagem de Não Concl.","Porcentagem de CancMatric","Porcentagem de Repr.Freq","Alunos"
+2021,"1. Semestre","D200888","10","P888402148",139,"Curso de Bacharelado em Estatística - Noturno",15,3,82,0,0,0,0,33
+2021,"1. Semestre","D200888","11","P148855320",521,"Ciências Econômicas - Diurno",31,0,67,2,0,0,0,55
+2021,"1. Semestre","D200888","11","P394200218",402,"Engenharia Florestal",54,0,46,0,0,0,0,37
+2021,"1. Semestre","D200888","12","P512200642",110,"Química Industrial",0,0,93,0,7,0,0,14
+2021,"1. Semestre","D200888","12","P512200642",133,"Química - Bacharelado",20,0,60,13,7,0,0,15
+2021,"1. Semestre","D200888","13","P394200218",302,"Engenharia Civil",68,2,18,0,10,2,0,50
+2021,"1. Semestre","D200888","14","P888402148",305,"Engenharia Química",33,0,65,0,2,0,0,48
+2021,"1. Semestre","D200888","50","P148855320",302,"Engenharia Civil",0,0,100,0,0,0,0,2
+2021,"1. Semestre","D200888","50","P148855320",313,"Curso de Engenharia de Produção",0,0,100,0,0,0,0,13
+2021,"1. Semestre","D320199","10","A148855320200",303,"Engenharia Elétrica",47,0,53,0,0,0,0,48
+2021,"1. Semestre","D320199","10","A380683888642",303,"Engenharia Elétrica",47,0,53,0,0,0,0,48
+2021,"1. Semestre","D320199","10","A512642218320",303,"Engenharia Elétrica",47,0,53,0,0,0,0,48
+2021,"1. Semestre","D320199","10","A855200218200",303,"Engenharia Elétrica",47,0,53,0,0,0,0,48
+2021,"1. Semestre","D320199","10","A893683855461",303,"Engenharia Elétrica",47,0,53,0,0,0,0,48
+2021,"1. Semestre","D320199","11","A218148855402",110,"Química Industrial",100,0,0,0,0,0,0,18
+2021,"1. Semestre","D320199","11","A218148855402",133,"Química - Bacharelado",75,4,13,0,4,4,0,24
+2021,"1. Semestre","D320199","12","A148855320200",304,"Engenharia Mecânica",5,5,80,0,5,5,0,51
+2021,"1. Semestre","D320199","12","A380683888642",304,"Engenharia Mecânica",5,5,80,0,5,5,0,51
+2021,"1. Semestre","D320199","12","A512642218320",304,"Engenharia Mecânica",5,5,80,0,5,5,0,51
+2021,"1. Semestre","D320199","12","A855200218200",304,"Engenharia Mecânica",5,5,80,0,5,5,0,51
+2021,"1. Semestre","D320199","12","A893683855461",304,"Engenharia Mecânica",5,5,80,0,5,5,0,51
+2021,"1. Semestre","D320199","13","A292200218320",307,"Ciência da Computação - Bacharelado",83,0,12,0,0,5,0,73
+2021,"1. Semestre","D320199","14","A148855320200",302,"Engenharia Civil",21,5,63,0,11,0,0,50
+2021,"1. Semestre","D320199","14","A380683888642",302,"Engenharia Civil",21,5,63,0,11,0,0,50
+2021,"1. Semestre","D320199","14","A512642218320",302,"Engenharia Civil",21,5,63,0,11,0,0,50
+2021,"1. Semestre","D320199","14","A855200218200",302,"Engenharia Civil",21,5,63,0,11,0,0,50
+2021,"1. Semestre","D320199","14","A893683855461",302,"Engenharia Civil",21,5,63,0,11,0,0,50
+2021,"1. Semestre","D320199","15","A148855320200",315,"Curso de Engenharia Aeroespacial",55,0,40,0,0,5,0,53
+2021,"1. Semestre","D320199","15","A380683888642",315,"Curso de Engenharia Aeroespacial",55,0,40,0,0,5,0,53
+2021,"1. Semestre","D320199","15","A512642218320",315,"Curso de Engenharia Aeroespacial",55,0,40,0,0,5,0,53
+2021,"1. Semestre","D320199","15","A855200218200",315,"Curso de Engenharia Aeroespacial",55,0,40,0,0,5,0,53
+2021,"1. Semestre","D320199","15","A893683855461",315,"Curso de Engenharia Aeroespacial",55,0,40,0,0,5,0,53
+2021,"1. Semestre","D320199","16","A806200978642",316,"Curso de Engenharia de Telecomunicações",53,0,35,0,9,4,0,55
+2021,"1. Semestre","D320199","17","A148855320200",305,"Engenharia Química",37,0,47,0,11,5,0,47
+2021,"1. Semestre","D320199","17","A380683888642",305,"Engenharia Química",37,0,47,0,11,5,0,47
+2021,"1. Semestre","D320199","17","A512642218320",305,"Engenharia Química",37,0,47,0,11,5,0,47
+2021,"1. Semestre","D320199","17","A855200218200",305,"Engenharia Química",37,0,47,0,11,5,0,47
+2021,"1. Semestre","D320199","17","A893683855461",305,"Engenharia Química",37,0,47,0,11,5,0,47
+2021,"1. Semestre","D320199","18","A893683855461",109,"Química - Licenciatura",6,3,75,3,8,6,0,36
+2021,"1. Semestre","D320199","19","A642946200380",402,"Engenharia Florestal",41,0,53,3,3,0,0,61
+2021,"1. Semestre","D320199","50","A218148855402",302,"Engenharia Civil",100,0,0,0,0,0,0,1
+2021,"1. Semestre","D320199","50","A218148855402",305,"Engenharia Química",100,0,0,0,0,0,0,2
+2021,"1. Semestre","D320199","50","A218148855402",311,"Curso de Engenharia Acústica",100,0,0,0,0,0,0,1
+2021,"1. Semestre","D320199","50","A218148855402",313,"Curso de Engenharia de Produção",66,3,22,0,9,0,0,32
+2021,"1. Semestre","D320199","50","A218148855402",315,"Curso de Engenharia Aeroespacial",0,0,100,0,0,0,0,1
+2021,"1. Semestre","D320200","10","B200380461148",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B200380461148",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","10","B292200218320",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B292200218320",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","10","B320888200683",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B320888200683",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","10","B461200642855",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B461200642855",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","10","B512402380642",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B512402380642",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","10","B888642512642",309,"Curso de Engenharia Sanitária e Ambiental",18,0,71,0,12,0,0,21
+2021,"1. Semestre","D320200","10","B888642512642",313,"Curso de Engenharia de Produção",18,0,76,6,0,0,0,38
+2021,"1. Semestre","D320200","11","B200380461148",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","11","B292200218320",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","11","B320888200683",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","11","B461200642855",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","11","B512402380642",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","11","B888642512642",312,"Curso de Engenharia de Computação",18,0,71,6,6,0,0,24
+2021,"1. Semestre","D320200","12","B200380461148",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","12","B292200218320",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","12","B320888200683",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","12","B461200642855",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","12","B512402380642",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","12","B888642512642",302,"Engenharia Civil",19,0,75,6,0,0,0,38
+2021,"1. Semestre","D320200","13","B200380461148",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","13","B292200218320",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","13","B320888200683",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","13","B461200642855",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","13","B512402380642",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","13","B888642512642",303,"Engenharia Elétrica",29,0,71,0,0,0,0,39
+2021,"1. Semestre","D320200","14","B200380461148",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","14","B292200218320",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","14","B320888200683",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","14","B461200642855",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","14","B512402380642",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","14","B888642512642",304,"Engenharia Mecânica",18,0,76,0,6,0,0,30
+2021,"1. Semestre","D320200","15","B200380461148",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","15","B292200218320",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","15","B320888200683",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","15","B461200642855",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","15","B512402380642",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","15","B888642512642",315,"Curso de Engenharia Aeroespacial",53,0,41,0,6,0,0,22
+2021,"1. Semestre","D320200","16","B200380461148",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","16","B292200218320",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","16","B320888200683",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","16","B461200642855",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","16","B512402380642",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","16","B888642512642",307,"Ciência da Computação - Bacharelado",29,0,65,6,0,0,0,22
+2021,"1. Semestre","D320200","17","B200380461148",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","17","B292200218320",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","17","B320888200683",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","17","B461200642855",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","17","B512402380642",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","17","B888642512642",310,"Curso Engenharia de Controle e Automação",24,0,65,6,6,0,0,39
+2021,"1. Semestre","D320200","18","B200380461148",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","18","B292200218320",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","18","B320888200683",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","18","B461200642855",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","18","B512402380642",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","18","B888642512642",311,"Curso de Engenharia Acústica",19,0,69,12,0,0,0,41
+2021,"1. Semestre","D320200","19","B200380461148",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","19","B292200218320",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","19","B320888200683",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","19","B461200642855",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","19","B512402380642",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","19","B888642512642",305,"Engenharia Química",38,0,62,0,0,0,0,36
+2021,"1. Semestre","D320200","50","B200380461148",302,"Engenharia Civil",0,0,100,0,0,0,0,1
+2021,"1. Semestre","D320200","50","B200380461148",305,"Engenharia Química",0,0,100,0,0,0,0,10
+2021,"1. Semestre","D402855","CC","C946200380402",307,"Ciência da Computação - Bacharelado",42,0,58,0,0,0,0,24
+2021,"1. Semestre","D402855","SI1","C200380893402",314,"Bacharelado em Sistemas de Informação",29,0,71,0,0,0,0,7
+2021,"1. Semestre","D888148","CC1","C320402855200",307,"Ciência da Computação - Bacharelado",68,0,21,0,0,11,0,19
+2021,"1. Semestre","D888148","CC2","C380148200685",307,"Ciência da Computação - Bacharelado",72,0,17,0,0,11,0,18
+2021,"1. Semestre","D888148","SI1","C320402855200",314,"Bacharelado em Sistemas de Informação",20,0,80,0,0,0,0,5
+2021,"1. Semestre","D888148","SI2","C380148200685",314,"Bacharelado em Sistemas de Informação",20,0,80,0,0,0,0,5
+2021,"1. Semestre","D888200","CC1","E681200461218",307,"Ciência da Computação - Bacharelado",84,0,5,0,0,11,0,19
+2021,"1. Semestre","D888200","CC2","E978402380148",307,"Ciência da Computação - Bacharelado",56,0,33,0,0,11,0,18
+2021,"1. Semestre","D888200","SI1","E681200461218",314,"Bacharelado em Sistemas de Informação",20,0,80,0,0,0,0,5
+2021,"1. Semestre","D888200","SI2","E978402380148",314,"Bacharelado em Sistemas de Informação",60,0,40,0,0,0,0,5
+2021,"2. Semestre","D200888","10","P888402148",313,"Curso de Engenharia de Produção",6,8,78,0,0,8,0,36
+2021,"2. Semestre","D200888","11","P394200218",402,"Engenharia Florestal",66,0,30,0,4,0,0,53
+2021,"2. Semestre","D200888","12","P148855320",307,"Ciência da Computação - Bacharelado",27,0,61,12,0,0,0,49
+2021,"2. Semestre","D200888","13","P946200888",302,"Engenharia Civil",34,2,64,0,0,0,0,47
+2021,"2. Semestre","D200888","14","P512200642",305,"Engenharia Química",5,3,93,0,0,0,0,40
+2021,"2. Semestre","D200888","15","P200218642",504,"Ciências Econômicas - Noturno",48,0,44,8,0,0,0,52
+2021,"2. Semestre","D200888","T50REA","P394200218",305,"Engenharia Química",81,0,19,0,0,0,0,21
+2021,"2. Semestre","D320199","10","A148855320200",303,"Engenharia Elétrica",5,5,89,0,0,0,0,52
+2021,"2. Semestre","D320199","10","A380683888642",303,"Engenharia Elétrica",5,5,89,0,0,0,0,52
+2021,"2. Semestre","D320199","10","A512642218320",303,"Engenharia Elétrica",5,5,89,0,0,0,0,52
+2021,"2. Semestre","D320199","10","A855200218200",303,"Engenharia Elétrica",5,5,89,0,0,0,0,52
+2021,"2. Semestre","D320199","10","A893683855461",303,"Engenharia Elétrica",5,5,89,0,0,0,0,52
+2021,"2. Semestre","D320199","11","A148855320200",312,"Curso de Engenharia de Computação",10,10,65,0,0,15,0,44
+2021,"2. Semestre","D320199","11","A380683888642",312,"Curso de Engenharia de Computação",10,10,65,0,0,15,0,44
+2021,"2. Semestre","D320199","11","A512642218320",312,"Curso de Engenharia de Computação",10,10,65,0,0,15,0,44
+2021,"2. Semestre","D320199","11","A855200218200",312,"Curso de Engenharia de Computação",10,10,65,0,0,15,0,44
+2021,"2. Semestre","D320199","11","A893683855461",312,"Curso de Engenharia de Computação",10,10,65,0,0,15,0,44
+2021,"2. Semestre","D320199","12","A148855320200",304,"Engenharia Mecânica",0,5,95,0,0,0,0,49
+2021,"2. Semestre","D320199","12","A380683888642",304,"Engenharia Mecânica",0,5,95,0,0,0,0,49
+2021,"2. Semestre","D320199","12","A512642218320",304,"Engenharia Mecânica",0,5,95,0,0,0,0,49
+2021,"2. Semestre","D320199","12","A855200218200",304,"Engenharia Mecânica",0,5,95,0,0,0,0,49
+2021,"2. Semestre","D320199","12","A893683855461",304,"Engenharia Mecânica",0,5,95,0,0,0,0,49
+2021,"2. Semestre","D320199","13","A888402148380",313,"Curso de Engenharia de Produção",68,7,16,0,2,7,0,44
+2021,"2. Semestre","D320199","14","A148855320200",302,"Engenharia Civil",15,5,80,0,0,0,0,47
+2021,"2. Semestre","D320199","14","A380683888642",302,"Engenharia Civil",15,5,80,0,0,0,0,47
+2021,"2. Semestre","D320199","14","A512642218320",302,"Engenharia Civil",15,5,80,0,0,0,0,47
+2021,"2. Semestre","D320199","14","A855200218200",302,"Engenharia Civil",15,5,80,0,0,0,0,47
+2021,"2. Semestre","D320199","14","A893683855461",302,"Engenharia Civil",15,5,80,0,0,0,0,47
+2021,"2. Semestre","D320199","15","A148855320200",310,"Curso Engenharia de Controle e Automação",5,10,76,0,5,5,0,34
+2021,"2. Semestre","D320199","15","A380683888642",310,"Curso Engenharia de Controle e Automação",5,10,76,0,5,5,0,34
+2021,"2. Semestre","D320199","15","A512642218320",310,"Curso Engenharia de Controle e Automação",5,10,76,0,5,5,0,34
+2021,"2. Semestre","D320199","15","A855200218200",310,"Curso Engenharia de Controle e Automação",5,10,76,0,5,5,0,34
+2021,"2. Semestre","D320199","15","A893683855461",310,"Curso Engenharia de Controle e Automação",5,10,76,0,5,5,0,34
+2021,"2. Semestre","D320199","16","A148855320200",314,"Bacharelado em Sistemas de Informação",14,10,71,0,5,0,0,33
+2021,"2. Semestre","D320199","16","A380683888642",314,"Bacharelado em Sistemas de Informação",14,10,71,0,5,0,0,33
+2021,"2. Semestre","D320199","16","A512642218320",314,"Bacharelado em Sistemas de Informação",14,10,71,0,5,0,0,33
+2021,"2. Semestre","D320199","16","A855200218200",314,"Bacharelado em Sistemas de Informação",14,10,71,0,5,0,0,33
+2021,"2. Semestre","D320199","16","A893683855461",314,"Bacharelado em Sistemas de Informação",14,10,71,0,5,0,0,33
+2021,"2. Semestre","D320199","17","A394200218642",305,"Engenharia Química",57,6,22,0,6,9,0,32
+2021,"2. Semestre","D320199","18","A218148855402",311,"Curso de Engenharia Acústica",26,0,67,0,3,5,0,39
+2021,"2. Semestre","D320199","19","A642946200380",402,"Engenharia Florestal",40,3,54,3,0,0,0,30
+2021,"2. Semestre","D320199","20","A292200218320",309,"Curso de Engenharia Sanitária e Ambiental",9,3,82,0,3,3,0,33
+2021,"2. Semestre","D320199","T50REA","A292200218320",305,"Engenharia Química",59,0,41,0,0,0,0,22
+2021,"2. Semestre","D320199","T50REA","A292200218320",315,"Curso de Engenharia Aeroespacial",33,0,67,0,0,0,0,3
+2021,"2. Semestre","D320200","10","B806642512402",315,"Curso de Engenharia Aeroespacial",80,0,16,2,2,0,0,50
+2021,"2. Semestre","D320200","11","B200380461148",110,"Química Industrial",32,0,59,9,0,0,0,22
+2021,"2. Semestre","D320200","11","B200380461148",133,"Química - Bacharelado",9,0,79,3,9,0,0,23
+2021,"2. Semestre","D320200","11","B292200218320",110,"Química Industrial",32,0,59,9,0,0,0,22
+2021,"2. Semestre","D320200","11","B292200218320",133,"Química - Bacharelado",9,0,79,3,9,0,0,23
+2021,"2. Semestre","D320200","11","B461200642855",110,"Química Industrial",32,0,59,9,0,0,0,22
+2021,"2. Semestre","D320200","11","B461200642855",133,"Química - Bacharelado",9,0,79,3,9,0,0,23
+2021,"2. Semestre","D320200","12","B200380461148",302,"Engenharia Civil",30,0,70,0,0,0,0,45
+2021,"2. Semestre","D320200","12","B292200218320",302,"Engenharia Civil",30,0,70,0,0,0,0,45
+2021,"2. Semestre","D320200","12","B461200642855",302,"Engenharia Civil",30,0,70,0,0,0,0,45
+2021,"2. Semestre","D320200","13","B888642512642",303,"Engenharia Elétrica",56,0,44,0,0,0,0,45
+2021,"2. Semestre","D320200","14","B200380461148",304,"Engenharia Mecânica",33,0,64,3,0,0,0,38
+2021,"2. Semestre","D320200","14","B292200218320",304,"Engenharia Mecânica",33,0,64,3,0,0,0,38
+2021,"2. Semestre","D320200","14","B461200642855",304,"Engenharia Mecânica",33,0,64,3,0,0,0,38
+2021,"2. Semestre","D320200","15","B806642512402",109,"Química - Licenciatura",63,0,34,3,0,0,0,29
+2021,"2. Semestre","D320200","16","B200380461148",316,"Curso de Engenharia de Telecomunicações",24,0,65,9,3,0,0,49
+2021,"2. Semestre","D320200","16","B292200218320",316,"Curso de Engenharia de Telecomunicações",24,0,65,9,3,0,0,49
+2021,"2. Semestre","D320200","16","B461200642855",316,"Curso de Engenharia de Telecomunicações",24,0,65,9,3,0,0,49
+2021,"2. Semestre","D320200","17","B888642512642",305,"Engenharia Química",64,0,33,3,0,0,0,39
+2021,"2. Semestre","D320200","T50REA","B200380461148",305,"Engenharia Química",100,0,0,0,0,0,0,2
+2021,"2. Semestre","D320200","T50REA","B200380461148",313,"Curso de Engenharia de Produção",39,0,48,4,9,0,0,23
+2021,"2. Semestre","D320200","T50REA","B200380461148",315,"Curso de Engenharia Aeroespacial",0,0,100,0,0,0,0,2
+2021,"2. Semestre","D402855","CC","C292200218642",307,"Ciência da Computação - Bacharelado",46,0,46,8,0,0,0,13
+2021,"2. Semestre","D402855","SI","C402380642148",314,"Bacharelado em Sistemas de Informação",70,0,30,0,0,0,0,33
+2021,"2. Semestre","D888148","10","C380148380200",304,"Engenharia Mecânica",48,4,40,0,4,4,0,25
+2021,"2. Semestre","D888148","11","C380148380200",304,"Engenharia Mecânica",67,0,33,0,0,0,0,3
+2021,"2. Semestre","D888148","CC1","C380148200685",307,"Ciência da Computação - Bacharelado",40,0,60,0,0,0,0,5
+2021,"2. Semestre","D888148","CC2","C218200683888",307,"Ciência da Computação - Bacharelado",20,0,80,0,0,0,0,5
+2021,"2. Semestre","D888148","SI1","C380148200685",314,"Bacharelado em Sistemas de Informação",41,9,36,0,5,9,0,22
+2021,"2. Semestre","D888148","SI2","C218200683888",314,"Bacharelado em Sistemas de Informação",56,6,33,0,0,6,0,18
+2021,"2. Semestre","D888200","CC1","E978402380148",307,"Ciência da Computação - Bacharelado",40,0,40,20,0,0,0,5
+2021,"2. Semestre","D888200","CC2","E681200461218",307,"Ciência da Computação - Bacharelado",40,0,40,20,0,0,0,5
+2021,"2. Semestre","D888200","SI1","E978402380148",314,"Bacharelado em Sistemas de Informação",43,0,43,0,4,9,0,23
+2021,"2. Semestre","D888200","SI2","E681200461218",314,"Bacharelado em Sistemas de Informação",12,0,82,0,0,6,0,17
+2022,"1. Semestre","D200888","10","P512200642",123,"Física - Bacharelado",36,0,21,7,0,0,36,14
+2022,"1. Semestre","D200888","11","P512200642",402,"Engenharia Florestal",3,0,13,0,10,0,74,31
+2022,"1. Semestre","D200888","12","P148855320",110,"Química Industrial",14,0,43,43,0,0,0,7
+2022,"1. Semestre","D200888","12","P148855320",133,"Química - Bacharelado",0,0,100,0,0,0,0,12
+2022,"1. Semestre","D200888","13","P855200218",302,"Engenharia Civil",33,7,39,0,0,2,20,46
+2022,"1. Semestre","D200888","14","P855200218",305,"Engenharia Química",22,0,47,0,0,0,31,45
+2022,"1. Semestre","D200888","15","P681200683",139,"Curso de Bacharelado em Estatística - Noturno",35,6,0,0,0,0,59,17
+2022,"1. Semestre","D200888","16","P512200642",521,"Ciências Econômicas - Diurno",5,0,30,0,0,0,65,43
+2022,"1. Semestre","D200888","50","P512200642",313,"Curso de Engenharia de Produção",0,0,92,8,0,0,0,13
+2022,"1. Semestre","D320199","10","A380683888642",303,"Engenharia Elétrica",17,2,48,2,2,4,25,52
+2022,"1. Semestre","D320199","11","A681200461218",110,"Química Industrial",14,0,57,10,0,5,14,21
+2022,"1. Semestre","D320199","11","A681200461218",133,"Química - Bacharelado",5,0,50,10,0,10,25,20
+2022,"1. Semestre","D320199","12","AP681402512218",304,"Engenharia Mecânica",47,0,49,0,0,5,0,43
+2022,"1. Semestre","D320199","13","A946200380642",307,"Ciência da Computação - Bacharelado",46,2,30,0,0,2,20,46
+2022,"1. Semestre","D320199","14","A380200380642",302,"Engenharia Civil",82,2,8,0,0,2,6,49
+2022,"1. Semestre","D320199","15","A642946200380",315,"Curso de Engenharia Aeroespacial",53,4,21,2,0,11,9,53
+2022,"1. Semestre","D320199","16","A888402148380",316,"Curso de Engenharia de Telecomunicações",8,2,50,0,4,18,18,51
+2022,"1. Semestre","D320199","16","AP681402512218",316,"Curso de Engenharia de Telecomunicações",8,2,50,0,4,18,18,51
+2022,"1. Semestre","D320199","17","A218148855402",305,"Engenharia Química",59,2,24,0,0,2,12,39
+2022,"1. Semestre","D320199","17","AP681402512218",305,"Engenharia Química",59,2,24,0,0,2,12,39
+2022,"1. Semestre","D320199","18","AP806642512402",109,"Química - Licenciatura",30,0,64,0,0,6,0,33
+2022,"1. Semestre","D320199","19","A642946200380",402,"Engenharia Florestal",35,0,32,3,0,8,22,37
+2022,"1. Semestre","D320199","20","AP806642512402",123,"Física - Bacharelado",57,0,40,0,3,0,0,30
+2022,"1. Semestre","D320199","50","A380200380642",303,"Engenharia Elétrica",10,0,86,5,0,0,0,21
+2022,"1. Semestre","D320199","50","A380200380642",305,"Engenharia Química",0,0,100,0,0,0,0,1
+2022,"1. Semestre","D320199","50","A380200380642",311,"Curso de Engenharia Acústica",0,0,100,0,0,0,0,1
+2022,"1. Semestre","D320200","10","B888642512642",309,"Curso de Engenharia Sanitária e Ambiental",33,0,13,7,7,0,40,15
+2022,"1. Semestre","D320200","11","B292200218320",312,"Curso de Engenharia de Computação",22,0,19,6,0,0,53,32
+2022,"1. Semestre","D320200","12","B200380512402",302,"Engenharia Civil",90,0,8,0,2,0,0,49
+2022,"1. Semestre","D320200","12","B380148200148",302,"Engenharia Civil",90,0,8,0,2,0,0,49
+2022,"1. Semestre","D320200","13","B461200642855",303,"Engenharia Elétrica",21,0,32,7,4,0,36,28
+2022,"1. Semestre","D320200","14","B380148200148",304,"Engenharia Mecânica",89,0,11,0,0,0,0,45
+2022,"1. Semestre","D320200","14","B380148200148",305,"Engenharia Química",85,0,13,0,2,0,0,46
+2022,"1. Semestre","D320200","15","B292200218320",313,"Curso de Engenharia de Produção",18,0,18,0,9,0,55,11
+2022,"1. Semestre","D320200","16","B461200642855",307,"Ciência da Computação - Bacharelado",58,0,6,27,0,0,9,33
+2022,"1. Semestre","D320200","17","B888642512642",310,"Curso Engenharia de Controle e Automação",30,0,33,6,0,0,30,33
+2022,"1. Semestre","D320200","18","B512402380642",311,"Curso de Engenharia Acústica",17,0,73,3,7,0,0,29
+2022,"1. Semestre","D320200","50","B888642512642",110,"Química Industrial",0,0,75,25,0,0,0,4
+2022,"1. Semestre","D402855","CC","C292200218642",307,"Ciência da Computação - Bacharelado",96,0,4,0,0,0,0,27
+2022,"1. Semestre","D402855","CC","C888148218402",307,"Ciência da Computação - Bacharelado",96,0,4,0,0,0,0,27
+2022,"1. Semestre","D402855","SI1","E380148200148",314,"Bacharelado em Sistemas de Informação",100,0,0,0,0,0,0,3
+2022,"1. Semestre","D402855","SI1","I200380893402",314,"Bacharelado em Sistemas de Informação",100,0,0,0,0,0,0,3
+2022,"1. Semestre","D888148","10","C380148380200",304,"Engenharia Mecânica",57,0,17,0,0,7,20,30
+2022,"1. Semestre","D888148","11","C380148380200",304,"Engenharia Mecânica",24,0,35,0,0,0,41,17
+2022,"1. Semestre","D888148","CC1","C320402855200",307,"Ciência da Computação - Bacharelado",56,0,24,0,0,4,16,25
+2022,"1. Semestre","D888148","CC2","C380148200685",307,"Ciência da Computação - Bacharelado",60,0,33,7,0,0,0,15
+2022,"1. Semestre","D888148","SI1","C320402855200",314,"Bacharelado em Sistemas de Informação",10,0,40,10,0,0,40,10
+2022,"1. Semestre","D888148","SI2","C380148200685",314,"Bacharelado em Sistemas de Informação",50,0,50,0,0,0,0,4
+2022,"1. Semestre","D888200","CC1","E681200461218",307,"Ciência da Computação - Bacharelado",87,0,13,0,0,0,0,15
+2022,"1. Semestre","D888200","CC2","E978402380148",307,"Ciência da Computação - Bacharelado",67,0,21,4,0,4,4,24
+2022,"1. Semestre","D888200","SI1","E681200461218",314,"Bacharelado em Sistemas de Informação",0,0,100,0,0,0,0,1
+2022,"1. Semestre","D888200","SI2","E978402380148",314,"Bacharelado em Sistemas de Informação",67,0,0,0,0,0,33,3
+2022,"2. Semestre","D200888","10","P888683320",504,"Ciências Econômicas - Noturno",29,0,12,0,0,2,57,42
+2022,"2. Semestre","D200888","11","P855200380",402,"Engenharia Florestal",10,0,8,0,8,0,73,37
+2022,"2. Semestre","D200888","11","P893683855",402,"Engenharia Florestal",10,0,8,0,8,0,73,37
+2022,"2. Semestre","D200888","12","J0000001111",307,"Ciência da Computação - Bacharelado",36,0,32,0,0,0,32,38
+2022,"2. Semestre","D200888","12","P893683855",307,"Ciência da Computação - Bacharelado",36,0,32,0,0,0,32,38
+2022,"2. Semestre","D200888","13","P642380402",302,"Engenharia Civil",18,6,31,0,0,0,45,49
+2022,"2. Semestre","D200888","14","M000001111",305,"Engenharia Química",19,0,30,0,0,2,49,47
+2022,"2. Semestre","D200888","15","P681200683",313,"Curso de Engenharia de Produção",36,4,18,0,0,0,43,28
+2022,"2. Semestre","D200888","50","P888683320",110,"Química Industrial",0,0,100,0,0,0,0,1
+2022,"2. Semestre","D200888","50","P888683320",302,"Engenharia Civil",100,0,0,0,0,0,0,4
+2022,"2. Semestre","D320199","10","P855200218",303,"Engenharia Elétrica",16,4,51,0,0,0,29,45
+2022,"2. Semestre","D320199","11","A292200218320",312,"Curso de Engenharia de Computação",23,2,33,2,0,0,41,61
+2022,"2. Semestre","D320199","13","A681200461218",313,"Curso de Engenharia de Produção",15,6,9,0,0,0,70,33
+2022,"2. Semestre","D320199","14","A380200380642",302,"Engenharia Civil",37,4,22,0,0,0,37,51
+2022,"2. Semestre","D320199","15","AP681402512218",310,"Curso Engenharia de Controle e Automação",28,6,36,0,0,0,31,36
+2022,"2. Semestre","D320199","16","MÁICON FACCO",314,"Bacharelado em Sistemas de Informação",23,2,23,2,0,2,47,43
+2022,"2. Semestre","D320199","17","A380683888642",304,"Engenharia Mecânica",34,6,38,0,0,2,20,52
+2022,"2. Semestre","D320199","17","AP292200218888",304,"Engenharia Mecânica",34,6,38,0,0,2,20,52
+2022,"2. Semestre","D320199","17","AP292200218888",305,"Engenharia Química",67,3,11,0,3,0,17,36
+2022,"2. Semestre","D320199","18","B200380461148",311,"Curso de Engenharia Acústica",28,0,14,7,3,0,48,29
+2022,"2. Semestre","D320199","19","A292200218320",402,"Engenharia Florestal",11,6,33,0,0,0,50,18
+2022,"2. Semestre","D320199","20","A394200218642",309,"Curso de Engenharia Sanitária e Ambiental",41,2,27,0,0,0,29,41
+2022,"2. Semestre","D320199","50","A292200218320",305,"Engenharia Química",0,0,100,0,0,0,0,2
+2022,"2. Semestre","D320199","50","A292200218320",307,"Ciência da Computação - Bacharelado",67,0,33,0,0,0,0,3
+2022,"2. Semestre","D320199","50","A292200218320",315,"Curso de Engenharia Aeroespacial",100,0,0,0,0,0,0,1
+2022,"2. Semestre","D320199","50","A292200218320",316,"Curso de Engenharia de Telecomunicações",0,0,0,0,100,0,0,1
+2022,"2. Semestre","D320200","10","B888642512642",123,"Física - Bacharelado",32,0,41,0,0,0,27,22
+2022,"2. Semestre","D320200","10","B888642512642",315,"Curso de Engenharia Aeroespacial",60,0,38,0,0,0,2,48
+2022,"2. Semestre","D320200","11","B888642512642",110,"Química Industrial",20,0,40,0,0,0,40,15
+2022,"2. Semestre","D320200","11","B888642512642",133,"Química - Bacharelado",46,0,15,0,0,0,38,13
+2022,"2. Semestre","D320200","12","B292200218320",302,"Engenharia Civil",56,0,44,0,0,0,0,9
+2022,"2. Semestre","D320200","13","B200380461148",303,"Engenharia Elétrica",34,0,39,0,0,2,24,41
+2022,"2. Semestre","D320200","14","B200380461148",304,"Engenharia Mecânica",82,0,16,0,2,0,0,53
+2022,"2. Semestre","D320200","14","B200380461148",305,"Engenharia Química",80,0,18,0,0,2,0,54
+2022,"2. Semestre","D320200","14","B380148200148",304,"Engenharia Mecânica",82,0,16,0,2,0,0,53
+2022,"2. Semestre","D320200","14","B380148200148",305,"Engenharia Química",80,0,18,0,0,2,0,54
+2022,"2. Semestre","D320200","15","B200380461148",109,"Química - Licenciatura",90,0,10,0,0,0,0,41
+2022,"2. Semestre","D320200","15","B380148200148",109,"Química - Licenciatura",90,0,10,0,0,0,0,41
+2022,"2. Semestre","D320200","16","B292200218320",316,"Curso de Engenharia de Telecomunicações",14,7,14,0,0,0,65,14
+2022,"2. Semestre","D320200","50","B200380461148",302,"Engenharia Civil",100,0,0,0,0,0,0,1
+2022,"2. Semestre","D320200","50","B200380461148",307,"Ciência da Computação - Bacharelado",100,0,0,0,0,0,0,1
+2022,"2. Semestre","D402855","CC","C946200380402",307,"Ciência da Computação - Bacharelado",56,0,17,0,0,0,28,18
+2022,"2. Semestre","D402855","SI","C200380893402",314,"Bacharelado em Sistemas de Informação",66,0,34,0,0,0,0,42
+2022,"2. Semestre","D402855","SI","I200380893402",314,"Bacharelado em Sistemas de Informação",66,0,34,0,0,0,0,42
+2022,"2. Semestre","D888148","10","C380148380200",304,"Engenharia Mecânica",37,6,20,0,0,3,34,35
+2022,"2. Semestre","D888148","11","C380148380200",304,"Engenharia Mecânica",28,0,22,0,0,0,50,18
+2022,"2. Semestre","D888148","CC1","C380148200685",307,"Ciência da Computação - Bacharelado",60,0,0,0,0,0,40,5
+2022,"2. Semestre","D888148","CC2","C218200683888",307,"Ciência da Computação - Bacharelado",40,0,0,0,0,0,60,5
+2022,"2. Semestre","D888148","SI1","C380148200685",314,"Bacharelado em Sistemas de Informação",46,4,33,0,0,0,17,24
+2022,"2. Semestre","D888148","SI2","C218200683888",314,"Bacharelado em Sistemas de Informação",50,5,27,0,0,5,14,22
+2022,"2. Semestre","D888200","CC","E200380461148",307,"Ciência da Computação - Bacharelado",80,0,20,0,0,0,0,10
+2022,"2. Semestre","D888200","SI1","E978402380148",314,"Bacharelado em Sistemas de Informação",63,3,27,0,0,0,7,30
+2022,"2. Semestre","D888200","SI2","E681200461218",314,"Bacharelado em Sistemas de Informação",60,0,13,0,0,7,20,15
+2022,"2. Semestre","D888200","SI3","E200380461148",314,"Bacharelado em Sistemas de Informação",80,0,20,0,0,0,0,10
+2023,"1. Semestre","D200888","10","P642380402",123,"Física - Bacharelado",38,0,29,0,0,0,33,24
+2023,"1. Semestre","D200888","11","P888683642",402,"Engenharia Florestal",45,0,17,0,0,0,38,29
+2023,"1. Semestre","D200888","12","P380148200",110,"Química Industrial",29,0,41,0,0,0,29,17
+2023,"1. Semestre","D200888","12","P380148200",133,"Química - Bacharelado",44,0,31,0,0,0,25,16
+2023,"1. Semestre","D200888","13","P642380402",521,"Ciências Econômicas - Diurno",20,0,13,0,0,2,65,45
+2023,"1. Semestre","D200888","14","P888402148",305,"Engenharia Química",23,0,37,0,0,0,40,35
+2023,"1. Semestre","D200888","15","P888402148",139,"Curso de Bacharelado em Estatística - Noturno",43,0,22,0,0,0,35,23
+2023,"1. Semestre","D200888","50","P380148200",305,"Engenharia Química",0,0,100,0,0,0,0,1
+2023,"1. Semestre","D402855","CC","E642946200380",307,"Ciência da Computação - Bacharelado",81,0,19,0,0,0,0,27
+2023,"1. Semestre","D402855","SI1","C200380893402",314,"Bacharelado em Sistemas de Informação",60,0,30,0,10,0,0,10
+2023,"1. Semestre","D402855","SI1","I200380893402",314,"Bacharelado em Sistemas de Informação",60,0,30,0,10,0,0,10
+2023,"1. Semestre","D888148","CC1","C320402855200",307,"Ciência da Computação - Bacharelado",67,4,17,0,0,4,8,24
+2023,"1. Semestre","D888148","CC2","C380148200685",307,"Ciência da Computação - Bacharelado",75,0,25,0,0,0,0,16
+2023,"1. Semestre","D888148","SI1","C320402855200",314,"Bacharelado em Sistemas de Informação",0,0,0,0,0,0,100,3
+2023,"1. Semestre","D888148","SI2","C380148200685",314,"Bacharelado em Sistemas de Informação",20,0,40,0,0,0,40,5
+2023,"2. Semestre","D200888","10","P380148200",504,"Ciências Econômicas - Noturno",36,0,30,0,0,4,30,53
+2023,"2. Semestre","D200888","102","P642380402",102,"Física - Licenciatura Plena",29,0,12,0,0,0,59,17
+2023,"2. Semestre","D200888","11","P888683320",402,"Engenharia Florestal",24,0,36,0,2,0,38,45
+2023,"2. Semestre","D200888","126","P888683320",126,"Física - Licenciatura Plena Noturno",29,0,12,0,0,0,59,17
+2023,"2. Semestre","D200888","12_307","P681200683",307,"Ciência da Computação - Bacharelado",78,2,6,0,0,2,12,49
+2023,"2. Semestre","D200888","50","P380148200",110,"Química Industrial",100,0,0,0,0,0,0,1
+2023,"2. Semestre","D200888","50","P380148200",305,"Engenharia Química",50,0,50,0,0,0,0,2
+2023,"2. Semestre","D402855","CC","C946200380402",307,"Ciência da Computação - Bacharelado",64,0,5,0,5,0,27,22
+2023,"2. Semestre","D402855","SI","C200380893402",314,"Bacharelado em Sistemas de Informação",84,2,14,0,0,0,0,41
+2023,"2. Semestre","D402855","SI","I200380893402",314,"Bacharelado em Sistemas de Informação",84,2,14,0,0,0,0,41
+2023,"2. Semestre","D888148","CC1","C380148200685",307,"Ciência da Computação - Bacharelado",33,0,33,0,0,0,33,3
+2023,"2. Semestre","D888148","CC2","C218200683888",307,"Ciência da Computação - Bacharelado",40,0,0,0,0,0,60,5
+2023,"2. Semestre","D888148","SI1","C380148200685",314,"Bacharelado em Sistemas de Informação",67,0,25,0,0,0,8,12
+2023,"2. Semestre","D888148","SI2","C218200683888",314,"Bacharelado em Sistemas de Informação",35,5,25,10,0,0,25,20

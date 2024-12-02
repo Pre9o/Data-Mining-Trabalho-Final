@@ -1,8 +1,8 @@
 if (!requireNamespace("readxl", quietly = TRUE)) install.packages("readxl")
 library(readxl)
 
-current_dir <- getwd()
-datasets_dir <- file.path(current_dir, "2024 UFSM datasets")
+parent_dir <- dirname(current_dir)  # Sobe um nível no diretório
+datasets_dir <- file.path(parent_dir, "2025 UFSM datasets")
 
 # Rafael Pregardier: Using a function to load the dataset
 load_dataset <- function(dataset_name) {

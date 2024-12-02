@@ -1,4 +1,5 @@
 import pandas as pd
+import csv
 
 df = pd.read_csv('dataset_unified.csv')
 
@@ -14,8 +15,15 @@ df_agrupado = df.groupby(["Ano", "Semestre", "Cód. Disciplina", "Cód. Turma", 
     "Alunos": "sum"
 }).reset_index()
 
+cols_numericas = [
+    "Cód. Curso", "Porcentagem de Aprovado", "Porcentagem de Dispensado", "Porcentagem de Reprovado",
+    "Porcentagem de Tr.Parcial", "Porcentagem de Não Concl.", "Porcentagem de CancMatric",
+    "Porcentagem de Repr.Freq", "Alunos"
+]
+df_agrupado[cols_numericas] = df_agrupado[cols_numericas].astype(int)
+
 # Salvar o resultado em um novo arquivo CSV
-df_agrupado.to_csv('processado.csv', index=False)
+df_agrupado.to_csv('preprocessado.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
 
 # Exibir o resultado
 print(df_agrupado)
