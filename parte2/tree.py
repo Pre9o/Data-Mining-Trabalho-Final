@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report
 from sklearn import tree
 import matplotlib.pyplot as plt
 import os
@@ -35,32 +35,26 @@ def definir_grupo(row):
 # Aplicar a função para criar a nova coluna 'grupo'
 df['GRUPO'] = df.apply(definir_grupo, axis=1)
 
-features = ['TOTAL_INGRESSANTES', 'TOTAL_FORMADOS', 'MULHERES_INGRESSANTES']
-X = df[features]
+# Selecionar as features e o target
+X = df[['TOTAL_INGRESSANTES', 'TOTAL_FORMADOS', 'MULHERES_INGRESSANTES']]
 y = df['GRUPO']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+# Dividir os dados em conjuntos de treino e teste
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-clf = DecisionTreeClassifier()
-clf = clf.fit(X_train, y_train)
+# Treinar o modelo de árvore de decisão
+clf = DecisionTreeClassifier(random_state=42)
+clf.fit(X_train, y_train)
 
-# Fazer previsões no conjunto de teste
-y_pred_test = clf.predict(X_test)
+# Fazer previsões
+y_pred = clf.predict(X_test)
 
-# Calcular a acurácia no conjunto de teste
-test_accuracy = accuracy_score(y_test, y_pred_test)
-print(f'Acurácia no conjunto de teste: {test_accuracy}')
+# Avaliar a performance do modelo
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Acurácia: {accuracy}')
+print(classification_report(y_test, y_pred))
 
-# Fazer previsões para todos os dados
-df['GRUPO_PREDITO'] = clf.predict(X)
-
-# Salvar o DataFrame com os grupos reais e preditos em um arquivo CSV
-output_file_path = os.path.join(current_dir, 'cursos_com_grupos.csv')
-df.to_csv(output_file_path, index=False)
-
-print(f'Arquivo CSV salvo em: {output_file_path}')
-
-# Visualizar a árvore de decisão (opcional)
+# Visualizar a árvore de decisão
 plt.figure(figsize=(20,10))
-tree.plot_tree(clf, feature_names=features, class_names=['1', '2', '3', '4'], filled=True)
+tree.plot_tree(clf, feature_names=X.columns, class_names=['1', '2', '3', '4'], filled=True)
 plt.show()
