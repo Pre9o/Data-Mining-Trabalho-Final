@@ -8,9 +8,8 @@ import matplotlib.pyplot as plt
 # Caminho para a pasta com os arquivos .xls
 current_dir = os.path.dirname(__file__)
 parent_dir = os.path.dirname(current_dir)
-caminho_pasta = os.path.join(parent_dir, 'Ingressantes e Formandos')
+caminho_pasta = os.path.join(parent_dir, '2024 UFSM datasets\Ingressantes e Formandos')
 
-# Lista para armazenar os DataFrames
 dataframes = []
 
 for arquivo in os.listdir(caminho_pasta):
@@ -23,7 +22,6 @@ for arquivo in os.listdir(caminho_pasta):
 
 resultado = pd.concat(dataframes, ignore_index=True)
 
-# Selecionar as colunas relevantes
 dados = resultado[['COD_CURSO', 'NOME_UNIDADE', 'ANO', 'SEXO', 'INGRESSANTES', 'FORMADOS']]
 
 dados = dados[dados['ANO'] != 'TOTAL']
@@ -90,9 +88,7 @@ for sexo in ['M', 'F']:
     plt.xticks(np.arange(dados_sexo['ANO'].min(), previsoes_sexo['ANO'].max() + 1, 1))
     plt.legend()
     plt.grid(True)
-    plt.show()
-
     plt.savefig(f'previsoes_{curso_nome}_{sexo}.png')
-    plt.close()
+    plt.show()
 
 df_resultados.to_csv('previsoes_cursos.csv', index=False)

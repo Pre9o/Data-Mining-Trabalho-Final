@@ -21,40 +21,33 @@ def definir_grupo(row):
     perc_mulheres_ingressantes = row['MULHERES_INGRESSANTES'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
     perc_formados = row['TOTAL_FORMADOS'] / row['TOTAL_INGRESSANTES'] if row['TOTAL_INGRESSANTES'] > 0 else 0
     
-    if perc_mulheres_ingressantes > 0.3:
+    if perc_mulheres_ingressantes > 0.5:
         if perc_formados <= 0.5:
             return '4'
         else:
             return '1'
     else:
-        if perc_formados > 0.7:
+        if perc_formados > 0.5:
             return '2'
         else:
             return '3'
 
-# Aplicar a função para criar a nova coluna 'grupo'
 df['GRUPO'] = df.apply(definir_grupo, axis=1)
 
-# Selecionar as features e o target
 X = df[['TOTAL_INGRESSANTES', 'TOTAL_FORMADOS', 'MULHERES_INGRESSANTES']]
 y = df['GRUPO']
 
-# Dividir os dados em conjuntos de treino e teste
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Treinar o modelo de árvore de decisão
 clf = DecisionTreeClassifier(random_state=42)
 clf.fit(X_train, y_train)
 
-# Fazer previsões
 y_pred = clf.predict(X_test)
 
-# Avaliar a performance do modelo
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Acurácia: {accuracy}')
 print(classification_report(y_test, y_pred))
 
-# Visualizar a árvore de decisão
 plt.figure(figsize=(20,10))
 tree.plot_tree(clf, feature_names=X.columns, class_names=['1', '2', '3', '4'], filled=True)
 plt.show()
